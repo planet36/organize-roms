@@ -1,5 +1,5 @@
 007 Shitou - The Duel (Japan).md
-10 Super Jogos (Brazil).md
+10 Super Jogos (Brazil) (En).md
 16 Zhang Mahjong II (Taiwan) (Unl).md
 16 Zhang Mahjong (Taiwan) (Unl).md
 16Bit Rhythm Land (World) (Aftermarket) (Unl).md
@@ -20,7 +20,6 @@ Addams Family, The (USA, Europe) (Beta).md
 Addams Family, The (USA, Europe).md
 Addams Family Values (Europe) (En,Fr,De).md
 Addams Family Values (USA) (En,Fr,De) (Proto).md
-Advanced Busterhawk Gleylancer (Japan).md
 Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Beta) (1991-03-07).md
 Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A).md
 Adventures of Batman & Robin, The (Europe).md
@@ -77,6 +76,7 @@ Alien 3 (USA, Europe) (Rev A).md
 Alien 3 (USA, Europe).md
 Alien Soldier (Europe).md
 Alien Soldier (Japan).md
+Alien Soldier (USA, Europe) (Switch Online).md
 Alien Soldier (USA) (Virtual Console).md
 Alien Storm (World) (SEGA Classic Collection).md
 Alien Storm (World).md
@@ -114,7 +114,7 @@ Arkagis Revolution (World) (En,Fr,Es) (Prerelease) (2020-03-04) (Unl).md
 Arkagis Revolution (World) (En,Fr,Es) (Rev 1) (Aftermarket) (Unl).md
 Arnold Palmer Tournament Golf (USA, Europe) (Rev A) (Beta) (1990-03-22) (Sega Channel).md
 Arnold Palmer Tournament Golf (USA, Europe).md
-Arrow Flash (Japan, Europe).md
+Arrow Flash (Japan, Europe) (En).md
 Arrow Flash (USA).md
 Art Alive (World) (Beta) (1991-09-20).md
 Art Alive (World).md
@@ -154,9 +154,9 @@ Baby's Day Out (USA) (Proto 1).md
 Baby's Day Out (USA) (Proto 2).md
 Back to the Future Part III (Europe).md
 Back to the Future Part III (USA).md
-Bad Omen (Japan, Korea).md
+Bad Omen (Japan, Korea) (Ja).md
 Bahamut Senki (Japan).md
-Ball Jacks (Japan, Europe).md
+Ball Jacks (Japan, Europe) (En).md
 Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe) (Beta 1).md
 Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe) (Beta 2).md
 Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe).md
@@ -187,7 +187,7 @@ Batman Forever (World).md
 Batman (Japan).md
 Batman Returns (World).md
 Battle Golfer Yui (Japan).md
-Battle Mania Daiginjou (Japan, Korea).md
+Battle Mania Daiginjou (Japan, Korea) (Ja).md
 Battle Mania (Japan) (Beta) (1991-05-28).md
 Battle Mania (Japan).md
 Battle Squadron (USA, Europe) (Rev 1) (Beta) (1991-01-18) (Sega Channel).md
@@ -285,18 +285,18 @@ Blow'em Out (World) (Aftermarket) (Unl).md
 Blue Almanac (Japan).md
 B.O.B. (USA, Europe) (Beta).md
 B.O.B. (USA, Europe) (Rev A).md
-Body Count (Brazil) (Beta) (1994-01-27).md
-Body Count (Brazil) (Beta) (1994-02-08).md
-Body Count (Brazil) (Beta) (1994-03-03).md
-Body Count (Brazil) (Beta) (1994-03-08).md
-Body Count (Brazil).md
+Body Count (Brazil) (En) (Beta) (1994-01-27).md
+Body Count (Brazil) (En) (Beta) (1994-02-08).md
+Body Count (Brazil) (En) (Beta) (1994-03-03).md
+Body Count (Brazil) (En) (Beta) (1994-03-08).md
+Body Count (Brazil) (En).md
 Body Count (Europe) (En,Fr,De,Es,It) (Beta).md
 Body Count (Europe) (En,Fr,De,Es,It).md
-Bomber (Brazil) (Unl).md
+Bomber (Brazil) (En) (Unl).md
 Bomboy (Taiwan) (En) (Unl).md
-Bonanza Bros. (Japan, Europe) (Rev A).md
-Bonanza Bros. (Japan, Europe).md
-Bonanza Bros. (USA, Europe, Korea) (Rev B).md
+Bonanza Bros. (Japan, Europe) (En) (Rev A).md
+Bonanza Bros. (Japan, Europe) (En).md
+Bonanza Bros. (USA, Europe, Korea) (En) (Rev B).md
 Bonkers (USA, Europe) (Beta) (1994-03-28).md
 Bonkers (USA, Europe) (Beta) (1994-05-03).md
 Bonkers (USA, Europe) (Beta) (1994-08-04).md
@@ -336,7 +336,7 @@ Bulls vs Lakers and the NBA Playoffs (USA, Europe).md
 Burning Force (Europe).md
 Burning Force (Japan).md
 Burning Force (USA).md
-Cadash (USA, Korea).md
+Cadash (USA, Korea) (En).md
 Caesar no Yabou II (Japan).md
 Caesar no Yabou (Japan).md
 Caesars Palace (USA).md
@@ -382,12 +382,12 @@ Chase H.Q. II (USA).md
 Chavez II (Mexico).md
 Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es).md
 Chelnov (Japan).md
-Chess (Russia) (Unl).md
+Chess (Russia) (En) (Unl).md
 Chester Cheetah - Too Cool to Fool (USA).md
 Chester Cheetah - Wild Wild Quest (USA).md
 Chi Chi's Pro Challenge Golf (USA).md
 Chibi Maruko-chan - Wakuwaku Shopping (Japan).md
-Chiki Chiki Boys (Japan, Korea).md
+Chiki Chiki Boys (Japan, Korea) (Ja).md
 Chiki Chiki Boys (USA, Europe).md
 Chou Kyuukai Miracle Nine (Japan).md
 Chou Touryuu Retsuden - Dino Land (Japan).md
@@ -433,7 +433,7 @@ College Football's National Championship (USA) (Beta) (1994-06-18).md
 College Football's National Championship (USA) (Beta) (1994-06-20).md
 College Football's National Championship (USA).md
 College Slam (USA).md
-Columns III - Taiketsu! Columns World (Japan, Korea).md
+Columns III - Taiketsu! Columns World (Japan, Korea) (Ja).md
 Columns III (USA).md
 Columns (Japan) (En).md
 Columns (USA, Europe) (1990-06-21) (Sega Channel).md
@@ -448,8 +448,8 @@ Comix Zone (Japan) (En,Ja).md
 Comix Zone (USA) (Beta) (1995-04-04).md
 Comix Zone (USA) (Beta) (1995-05-26).md
 Comix Zone (USA) (Beta) (1995-05-30).md
-Comix Zone (USA) (Beta) (1995-06-01) (Alt2).md
-Comix Zone (USA) (Beta) (1995-06-01) (Alt3).md
+Comix Zone (USA) (Beta) (1995-06-01) (Alt 2).md
+Comix Zone (USA) (Beta) (1995-06-01) (Alt 3).md
 Comix Zone (USA) (Beta) (1995-06-01) (Alt).md
 Comix Zone (USA) (Beta) (1995-06-01).md
 Comix Zone (USA) (Beta) (1995-06-02) (Alt).md
@@ -461,13 +461,13 @@ Comix Zone (USA) (Virtual Console).md
 Comix Zone (USA).md
 Congo - The Game (USA) (Proto).md
 Contra - Hard Corps (USA) (Genesis Mini).md
-Contra - Hard Corps (USA, Korea).md
+Contra - Hard Corps (USA, Korea) (En).md
 Contra - Hard Corps (World) (Contra Anniversary Collection).md
 Contra - The Hard Corps (Japan) (Mega Drive Mini).md
 Contra - The Hard Corps (Japan).md
 Contra - The Hard Corps (World) (Ja) (Contra Anniversary Collection).md
 Cool Spot (Europe).md
-Cool Spot (Japan, Korea).md
+Cool Spot (Japan, Korea) (Ja).md
 Cool Spot (USA) (Beta).md
 Cool Spot (USA).md
 Corporation (Europe).md
@@ -523,20 +523,21 @@ Dahna - Megami Tanjou (Japan).md
 Dahna (Korea).md
 Daikoukai Jidai II (Japan).md
 Daikoukai Jidai (Japan).md
-Daimakaimura ~ Ghouls'n Ghosts (Japan, USA).md
+Daimakaimura ~ Ghouls'n Ghosts (Japan, USA) (En).md
 Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A) (Sega Channel).md
 Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A).md
 Daimakaimura (Japan).md
-Daisenpuu ~ Twin Hawk (Japan, Europe) (Beta) (1990-04-06).md
-Daisenpuu ~ Twin Hawk (Japan, Europe).md
+Daisenpuu ~ Twin Hawk (Japan, Europe) (En) (Beta) (1990-04-06).md
+Daisenpuu ~ Twin Hawk (Japan, Europe) (En).md
 Dangerous Seed (Japan).md
 Danny Sullivan's Indy Heat (USA) (Proto).md
+Darius - Extra Edition (World) (Aftermarket) (Unl).md
 Darius II (Japan).md
 Darius II (World) (Darius Cozmic Collection).md
 Darius (World) (Genesis Mini, Mega Drive Mini).md
 Dark Castle (USA, Europe).md
-Darwin 4081 (Japan, Korea) (Beta) (1990-02-21).md
-Darwin 4081 (Japan, Korea).md
+Darwin 4081 (Japan, Korea) (En) (Beta) (1990-02-21).md
+Darwin 4081 (Japan, Korea) (En).md
 Dashin' Desperadoes (Europe) (Proto).md
 Dashin' Desperadoes (USA) (Beta).md
 Dashin' Desperadoes (USA).md
@@ -556,7 +557,7 @@ Death and Return of Superman, The (Europe).md
 Death and Return of Superman, The (USA).md
 Death Duel (USA) (Beta) (1992-05-06).md
 Death Duel (USA).md
-DEcapAttack (USA, Europe, Korea).md
+DEcapAttack (USA, Europe, Korea) (En).md
 Demolition Man (USA, Europe) (Beta).md
 Demolition Man (USA, Europe).md
 Demons of Asteborg (World) (Demo 1) (Aftermarket) (Unl).md
@@ -575,7 +576,7 @@ Desert Demolition (USA, Europe) (Beta) (1994-12-15).md
 Desert Demolition (USA, Europe) (Beta) (1994-12-16).md
 Desert Demolition (USA, Europe) (Beta) (1994-12-19).md
 Desert Strike - Return to the Gulf (USA, Europe).md
-Desert Strike - Wangan Sakusen ~ Desert Strike (Japan, Korea).md
+Desert Strike - Wangan Sakusen ~ Desert Strike (Japan, Korea) (Ja).md
 Devil Crash MD (Japan).md
 Devilish - The Next Possession (USA).md
 Devilish (USA) (Beta) (1992-01-16).md
@@ -599,7 +600,7 @@ DJ Boy (Japan).md
 DJ Boy (USA).md
 Domine o Territorio (Brazil) (Aftermarket) (Unl).md
 Dominus (USA) (Proto).md
-Donald in Maui Mallard (Brazil).md
+Donald in Maui Mallard (Brazil) (En).md
 Donald in Maui Mallard (Europe) (Rev A).md
 Dong Gu Ri Te Chi Jak Jeon (Korea).md
 Doom Troopers (USA).md
@@ -630,7 +631,9 @@ Dragon's Revenge (Japan) (En).md
 Dragon's Revenge (USA, Europe).md
 Dream Team USA (Japan).md
 Du Shen Zhi Meng Huan Poker (Taiwan) (Unl).md
-Duke Nukem 3D (Brazil).md
+Duke Nukem 3D - Directors Cut (World) (Aftermarket) (Unl).md
+Duke Nukem 3D (Brazil) (En).md
+Dune - The Battle for Arrakis (Unknown) (Beta).md
 Dune - The Battle for Arrakis (USA).md
 Dune II - Kampf um den Wuestenplaneten (Germany).md
 Dune II - The Battle for Arrakis (Europe) (Beta) (1994-01-11).md
@@ -655,7 +658,7 @@ EA Hockey (Japan).md
 EA Sports Double Header (Europe).md
 Earnest Evans (USA) (Beta).md
 Earnest Evans (USA).md
-Earth Defense ~ Earth Defend, The (USA, Taiwan) (Unl).md
+Earth Defense ~ Earth Defend, The (USA, Taiwan) (En) (Unl).md
 Earthworm Jim 2 (Europe) (Beta) (1995-08-24).md
 Earthworm Jim 2 (Europe).md
 Earthworm Jim 2 (USA).md
@@ -672,8 +675,8 @@ Ecco Jr. (USA, Australia).md
 Ecco the Dolphin II (Japan).md
 Ecco the Dolphin (Japan) (Beta) (1993-04-21).md
 Ecco the Dolphin (Japan).md
-Ecco the Dolphin (USA, Europe, Korea) (Rev A) (Beta) (1993-06-29).md
-Ecco the Dolphin (USA, Europe, Korea).md
+Ecco the Dolphin (USA, Europe, Korea) (En) (Rev A) (Beta) (1993-06-29).md
+Ecco the Dolphin (USA, Europe, Korea) (En).md
 Elemental Master (Japan).md
 Elemental Master (USA).md
 Eliminate Down (Japan).md
@@ -708,8 +711,8 @@ ESPN Sunday Night NFL (USA).md
 ESWAT - City under Siege (USA, Europe) (Rev A).md
 Eternal Champions (Europe) (Beta).md
 Eternal Champions (Europe).md
-Eternal Champions (Japan, Korea) (Beta) (1993-11-17).md
-Eternal Champions (Japan, Korea).md
+Eternal Champions (Japan, Korea) (Ja) (Beta) (1993-11-17).md
+Eternal Champions (Japan, Korea) (Ja).md
 Eternal Champions (USA).md
 Europa Sensen (Japan).md
 European Club Soccer (Europe) (Beta) (1991-10-25).md
@@ -726,6 +729,7 @@ Exo Squad (USA).md
 Exodus - Journey to the Promised Land (USA) (Unl).md
 Ex-Ranza (Japan) (Beta).md
 Ex-Ranza (Japan).md
+Eyra - The Crow Maiden (World) (Aftermarket) (Unl).md
 Eyra - The Crow Maiden (World) (Demo) (Aftermarket) (Unl).md
 F1 - World Championship Edition (Europe) (Beta).md
 F1 - World Championship Edition (Europe).md
@@ -753,8 +757,8 @@ Fantasia (World) (Rev A).md
 Fantastic Dizzy (USA, Europe) (Beta).md
 Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It).md
 Fastest 1 (Japan).md
-Fatal Fury 2 (USA, Korea).md
-Fatal Fury (Europe, Korea).md
+Fatal Fury 2 (USA, Korea) (En).md
+Fatal Fury (Europe, Korea) (En).md
 Fatal Fury (USA).md
 Fatal Labyrinth (USA, Europe).md
 Fatal Rewind (USA, Europe) (Rev 1).md
@@ -767,7 +771,7 @@ Ferrari Grand Prix Challenge (Europe).md
 Ferrari Grand Prix Challenge (USA).md
 Fever Pitch Soccer (Europe) (En,Fr,De,Es,It).md
 Fido Dido (USA) (Proto).md
-FIFA 2003 (Unknown) (Unl) (Pirate).md
+FIFA 2003 (Unknown) (Es) (Unl) (Pirate).md
 FIFA 98 - Road to World Cup (Europe) (En,Fr,Es,It,Sv).md
 FIFA International Soccer (Japan) (En,Ja).md
 FIFA International Soccer (USA, Europe) (En,Fr,De,Es).md
@@ -778,7 +782,7 @@ FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es,It,Sv).md
 FIFA Soccer 97 (USA, Europe) (En,Fr,De,Es,It,Sv).md
 FIFA Soccer 99 (Unknown) (Unl) (Pirate).md
 Fight for Vengeance (World) (Demo) (Aftermarket) (Unl).md
-Fighting Masters (Japan, Korea).md
+Fighting Masters (Japan, Korea) (Ja).md
 Fighting Masters (USA).md
 Final Blow (Japan) (En) (Beta) (1990-01-16).md
 Final Blow (Japan) (En).md
@@ -818,9 +822,9 @@ Futbol Argentino 96 (Argentina) (Unl) (Pirate).md
 Futbol Argentino 98 - Pasion de Multitudes (Argentina) (Unl) (Pirate).md
 Futbol Argentino (Argentina) (Unl) (Pirate).md
 FX Unit Yuki - The Henshin Engine (World) (Aftermarket) (Unl).md
-FZ Senki Axis ~ Final Zone (Japan, USA).md
+FZ Senki Axis ~ Final Zone (Japan, USA) (En).md
 Gadget Twins (USA).md
-Gaiares (Japan, USA).md
+Gaiares (Japan, USA) (En).md
 Gain Ground (Europe).md
 Gain Ground (Japan) (En).md
 Gain Ground (USA) (Beta) (1990-07-27).md
@@ -856,6 +860,7 @@ George Foreman's KO Boxing (USA).md
 Ghostbusters (Japan).md
 Ghostbusters (USA, Europe) (Beta) (1990-05-01).md
 Ghostbusters (USA, Europe).md
+Gleylancer (Japan).md
 Global Gladiators (Europe).md
 G-LOC - Air Battle (World) (1992-11-23) (Sega Channel).md
 G-LOC - Air Battle (World) (Beta).md
@@ -877,9 +882,9 @@ Golden Axe (World) (Rev B) (Sega Smash Pack).md
 Golden Axe (World).md
 Goofy's Hysterical History Tour (USA).md
 Gouketsuji Ichizoku (Japan).md
-Granada (Japan, USA) (Rev A) (Beta).md
-Granada (Japan, USA) (Rev A).md
-Granada (Japan, USA).md
+Granada (Japan, USA) (En) (Rev A) (Beta).md
+Granada (Japan, USA) (En) (Rev A).md
+Granada (Japan, USA) (En).md
 GrandSlam - The Tennis Tournament '92 (Japan).md
 GrandSlam - The Tennis Tournament (Europe).md
 Great Circus Mystery - Mickey to Minnie Magical Adventure 2 (Japan).md
@@ -952,7 +957,7 @@ Incredible Crash Dummies, The (USA, Europe).md
 Incredible Hulk, The (USA, Europe).md
 Indiana Jones and the Last Crusade (Europe).md
 Indiana Jones and the Last Crusade (USA).md
-Insector X (Japan, Korea).md
+Insector X (Japan, Korea) (Ja).md
 Insector X (USA).md
 Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1993-09-23).md
 Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1993-12-28) (Alt).md
@@ -966,7 +971,7 @@ Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (July, 1992).md
 Instruments of Chaos Starring Young Indiana Jones (USA).md
 International Rugby (Europe).md
 International Sensible Soccer (Europe) (En,Fr,De,It).md
-International Superstar Soccer Deluxe (Europe, Brazil).md
+International Superstar Soccer Deluxe (Europe, Brazil) (En).md
 Ishido - The Way of Stones (USA) (Unl).md
 It Came from the Desert (USA) (Proto).md
 Itchy & Scratchy Game, The (USA) (Proto).md
@@ -984,11 +989,11 @@ James 'Buster' Douglas Knockout Boxing (USA, Europe).md
 James Pond - Underwater Agent (USA, Europe).md
 James Pond 3 (USA, Europe).md
 James Pond II - Codename - Robocod (USA, Europe).md
-James Pond II (Japan, Korea).md
+James Pond II (Japan, Korea) (Ja).md
 Jammit (USA).md
 Janou Touryuumon (Japan).md
 Jantei Monogatari (Japan).md
-Jashin Draxos (Japan, Korea).md
+Jashin Draxos (Japan, Korea) (Ja).md
 Jelly Boy (Europe) (Proto).md
 Jennifer Capriati Tennis (USA).md
 Jeopardy! - Deluxe Edition (USA).md
@@ -1020,7 +1025,7 @@ Journey from Darkness - Strider Returns (USA).md
 Judge Dredd (World) (Beta).md
 Judge Dredd (World).md
 JuJu Densetsu (Japan) (En).md
-Junction (Japan, USA).md
+Junction (Japan, USA) (En).md
 Jungle Book, The (Europe) (Beta).md
 Jungle Book, The (Europe).md
 Jungle Book, The (USA).md
@@ -1055,7 +1060,7 @@ Ka-Ge-Ki - Fists of Steel (USA).md
 Ka-Ge-Ki (Japan).md
 Kawasaki Superbike Challenge (USA, Europe) (Beta).md
 Kawasaki Superbike Challenge (USA, Europe).md
-Kick Boxing, The (Japan, Korea).md
+Kick Boxing, The (Japan, Korea) (Ja).md
 Kick Off 3 - European Challenge (Europe) (Beta).md
 Kick Off 3 - European Challenge (Europe) (En,Fr,De,Es,It).md
 Kid Chameleon (USA, Europe) (Beta) (1991-12-19).md
@@ -1107,7 +1112,7 @@ Langrisser II (Japan) (Rev B).md
 Langrisser II (Japan).md
 Langrisser (Japan).md
 Last Action Hero (USA, Europe).md
-Last Battle (USA, Europe, Korea).md
+Last Battle (USA, Europe, Korea) (En).md
 Lawnmower Man, The (USA, Europe).md
 Legend of Galahad, The ~ Galahad (USA, Europe).md
 Legend of Wukong (World) (Aftermarket) (Unl).md
@@ -1116,7 +1121,7 @@ Legende de Thor, La (France).md
 Lemmings 2 - The Tribes (Europe).md
 Lemmings 2 - The Tribes (USA).md
 Lemmings (Europe).md
-Lemmings (Japan, Korea).md
+Lemmings (Japan, Korea) (En).md
 Lemmings (USA).md
 Lethal Enforcers (Europe).md
 Lethal Enforcers II - Gun Fighters (Europe).md
@@ -1186,7 +1191,7 @@ Magic School Bus, The - Space Exploration Game (USA).md
 Magical Hat no Buttobi Turbo! Daibouken (Japan).md
 Magical Taruruuto-kun (Japan).md
 Mahjong Cop Ryuu - Shiro Ookami no Yabou (Japan).md
-Mallet Legend's Whac-a-Critter ~ Mallet Legend (USA, Taiwan) (Unl).md
+Mallet Legend's Whac-a-Critter ~ Mallet Legend (USA, Taiwan) (En) (Unl).md
 Mamono Hunter Youko - Dai 7 no Keishou (Japan).md
 Man Overboard! (Europe).md
 Maou Renjishi (Japan).md
@@ -1210,7 +1215,7 @@ Maten no Soumetsu (Japan).md
 Math Blaster - Episode 1 (USA).md
 Mazin Saga - Mutant Fighter (USA).md
 Mazin Saga (Asia) (En).md
-Mazin Saga (Japan, Korea).md
+Mazin Saga (Japan, Korea) (Ja).md
 Mazin Wars (Europe).md
 McDonald's Treasure Land Adventure (Europe).md
 McDonald's Treasure Land Adventure (Japan) (Beta).md
@@ -1221,19 +1226,21 @@ Mega 3D Noah's Ark (Unknown) (Aftermarket) (Unl).md
 Mega 6 Vol. 3 (Europe).md
 Mega Anser (Japan) (Program).md
 Mega Bomberman - Special 8-Player-Demo (Europe) (Proto).md
-Mega Bomberman (Europe, Korea).md
+Mega Bomberman (Europe, Korea) (En).md
 Mega Bomberman (USA).md
 Mega Cheril Perils (World) (En,Es) (Aftermarket) (Unl).md
 Mega Games 2 (Europe).md
-Mega Games 3 (Europe, Asia).md
+Mega Games 3 (Europe, Asia) (En).md
 Mega Games 6 (Europe).md
 Mega Games 6 Vol. 2 (Europe).md
 Mega Games I (Europe).md
 Mega lo Mania (Japan).md
 Mega Man - The Wily Wars (Europe).md
+Mega Man - The Wily Wars (USA) (Aftermarket) (Unl).md
 Mega Man - The Wily Wars (USA) (Genesis Mini).md
 Mega Marble World (World) (Aftermarket) (Unl).md
 Mega SWIV (Europe).md
+Mega Turrican - Director's Cut (World) (Aftermarket) (Unl).md
 Mega Turrican (Europe).md
 Mega Turrican (Japan) (En) (Proto) (1993-05-18).md
 Mega Turrican (USA, Europe) (Virtual Console).md
@@ -1242,7 +1249,7 @@ Mega-lo-Mania (Europe) (Beta).md
 Mega-lo-Mania (Europe).md
 Mega-lo-Mania (France).md
 MegaMind (Japan) (SegaNet).md
-MegaNet (Brazil) (Program).md
+MegaNet (Brazil) (En) (Program).md
 MegaPanel (Japan).md
 MegaTrax (Japan).md
 Menacer - 6-Game Cartridge (USA, Europe).md
@@ -1250,8 +1257,8 @@ Meng Huan Shui Guo Pan - 777 Casino (Taiwan) (Unl).md
 Metal Blast 2277 (World) (Beta) (Aftermarket) (Unl).md
 Metal Blast 2277 (World) (Rev 1) (Aftermarket) (Unl).md
 Metal Fangs (Japan).md
-Michael Jackson's Moonwalker (Japan, USA) (Beta) (1990-04-24).md
-Michael Jackson's Moonwalker (Japan, USA).md
+Michael Jackson's Moonwalker (Japan, USA) (En) (Beta) (1990-04-24).md
+Michael Jackson's Moonwalker (Japan, USA) (En).md
 Michael Jackson's Moonwalker (World) (Rev A).md
 Mick & Mack as the Global Gladiators (USA) (Beta).md
 Mick & Mack as the Global Gladiators (USA).md
@@ -1268,7 +1275,7 @@ Micro Machines - Turbo Tournament 96 (Europe) (Rev 1) (J-Cart).md
 Micro Machines 2 - Turbo Tournament (Europe) (Beta).md
 Micro Machines 2 - Turbo Tournament (Europe) (J-Cart).md
 Micro Machines 2 - Turbo Tournament (Europe).md
-Micro Machines (Europe) (Alt2).md
+Micro Machines (Europe) (Alt 2).md
 Micro Machines (Europe) (Alt).md
 Micro Machines (Europe).md
 Micro Machines (USA) (Rev 1).md
@@ -1281,7 +1288,7 @@ Mig-29 Fighter Pilot (Japan).md
 Mig-29 Fighter Pilot (USA).md
 Might and Magic - Gates to Another World (USA, Europe).md
 Might and Magic III - Isles of Terra (USA) (Proto).md
-Mighty Morphin Power Rangers - The Fighting Edition (Russia) (Unl).md
+Mighty Morphin Power Rangers - The Fighting Edition (Russia) (En) (Unl).md
 Mighty Morphin Power Rangers - The Movie (Europe).md
 Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-13).md
 Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-17).md
@@ -1314,6 +1321,7 @@ Monster World IV (Japan).md
 Monster World IV (USA, Europe) (En,Ja) (Virtual Console).md
 Monster World IV (USA) (Genesis Mini).md
 Mortal Kombat 3 (Europe).md
+Mortal Kombat 3 (USA) (Beta).md
 Mortal Kombat 3 (USA).md
 Mortal Kombat II (World).md
 Mortal Kombat (USA, Europe) (Rev A) (Beta).md
@@ -1460,9 +1468,9 @@ NHLPA Hockey 93 (USA, Europe) (Rev A).md
 NHLPA Hockey 93 (USA, Europe).md
 Nigel Mansell's World Championship Racing (Europe).md
 Nigel Mansell's World Championship Racing (USA).md
-Nightmare Circus (Brazil) (Beta 1).md
-Nightmare Circus (Brazil) (Beta 2).md
-Nightmare Circus (Brazil).md
+Nightmare Circus (Brazil) (En) (Beta 1).md
+Nightmare Circus (Brazil) (En) (Beta 2).md
+Nightmare Circus (Brazil) (En).md
 Nikkan Sports Pro Yakyuu VAN (Japan).md
 Ninja Burai Densetsu (Japan) (Beta) (1991-05-28).md
 Ninja Burai Densetsu (Japan).md
@@ -1488,7 +1496,7 @@ On Dal Jang Goon (Korea).md
 Onslaught (USA, Europe) (Unl).md
 Ooze, The (Europe) (Beta) (1995-07-28).md
 Ooze, The (Europe).md
-Ooze, The (Japan, USA).md
+Ooze, The (Japan, USA) (En).md
 Ooze, The (USA) (Beta) (1995-06-15).md
 Ooze, The (USA) (Beta) (1995-06-19).md
 Ooze, The (USA) (Beta) (1995-06-22).md
@@ -1577,14 +1585,14 @@ Phantasy Star II - Nei's Adventure (Japan) (SegaNet).md
 Phantasy Star II - Rudger's Adventure (Japan) (SegaNet).md
 Phantasy Star II - Shilka's Adventure (Japan) (SegaNet).md
 Phantasy Star II - Yushis's Adventure (Japan) (SegaNet).md
-Phantasy Star II (Brazil).md
+Phantasy Star II (Brazil) (En).md
 Phantasy Star II (USA, Europe) (Beta) (1989-07-28).md
 Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease).md
 Phantasy Star II (USA, Europe) (Rev A) (Virtual Console).md
 Phantasy Star II (USA, Europe) (Rev A).md
 Phantasy Star II (USA, Europe).md
-Phantasy Star III - Generations of Doom (Brazil).md
-Phantasy Star III - Generations of Doom (USA, Europe, Korea).md
+Phantasy Star III - Generations of Doom (Brazil) (En).md
+Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En).md
 Phantasy Star III - Generations of Doom (USA, Europe) (PC Rerelease).md
 Phantasy Star IV (Europe).md
 Phantasy Star IV (USA) (Beta) (1994-05-30).md
@@ -1629,9 +1637,9 @@ Pokemon Stadium (Taiwan) (En) (Unl).md
 Populous (Europe).md
 Populous (Japan).md
 Populous (USA) (Unl).md
-Power Athlete (Japan, Korea).md
+Power Athlete (Japan, Korea) (Ja).md
 Power Drive (Europe) (En,Fr,De,Es,Pt).md
-Power Monger (Japan, Korea).md
+Power Monger (Japan, Korea) (Ja).md
 Power Monger (USA, Europe).md
 Powerball (USA).md
 Predator 2 (USA, Europe).md
@@ -1695,11 +1703,11 @@ Race Drivin' (USA).md
 Radical Rex (Europe) (Beta).md
 Radical Rex (Europe).md
 Radical Rex (USA).md
-Raiden Densetsu ~ Raiden Trad (Japan, USA).md
+Raiden Densetsu ~ Raiden Trad (Japan, USA) (En).md
 Rainbow Islands Extra (Japan).md
 Rambo III (Japan) (En).md
-Rambo III (USA, Europe, Korea) (Rev A).md
-Rampart (Japan, Korea).md
+Rambo III (USA, Europe, Korea) (En) (Rev A).md
+Rampart (Japan, Korea) (Ja).md
 Rampart (USA).md
 Ranger X (Europe).md
 Ranger X (USA).md
@@ -1742,7 +1750,7 @@ Risk (USA).md
 Risky Woods (USA, Europe).md
 Ristar - The Shooting Star (Japan) (Beta) (1994-07-01).md
 Ristar - The Shooting Star (Japan) (Beta) (1994-07-18).md
-Ristar - The Shooting Star (Japan, Korea).md
+Ristar - The Shooting Star (Japan, Korea) (Ja).md
 Ristar (USA, Europe) (Beta) (Later).md
 Ristar (USA, Europe).md
 Road Rash 3 (USA, Europe) (Beta) (1994-11-19).md
@@ -1761,7 +1769,7 @@ RoadBlasters (USA).md
 RoboCop 3 (USA, Europe).md
 RoboCop Versus The Terminator (Europe) (Beta) (1993-07-27).md
 RoboCop Versus The Terminator (Europe).md
-RoboCop Versus The Terminator (Japan, Korea).md
+RoboCop Versus The Terminator (Japan, Korea) (En).md
 RoboCop Versus The Terminator (USA) (Beta) (1993-04-30).md
 RoboCop Versus The Terminator (USA).md
 Robot Battler (Japan) (SegaNet).md
@@ -1783,10 +1791,10 @@ Rolling Thunder 3 (USA).md
 Rolo to the Rescue (USA, Europe).md
 Romance of the Three Kingdoms II (USA).md
 Romance of the Three Kingdoms III - Dragon of Destiny (USA).md
-Ronaldinho 98 (Unknown) (Unl) (Pirate).md
+Ronaldinho 98 (Unknown) (Pt) (Unl) (Pirate).md
 Royal Blood (Japan).md
 Rugby World Cup 95 (USA, Europe) (En,Fr,It).md
-Runark (Japan, Korea).md
+Runark (Japan, Korea) (En).md
 Ryuuko no Ken (Japan).md
 Sacred Line Genesis (World) (1.1.9) (Aftermarket) (Unl).md
 Sagaia (USA).md
@@ -1825,7 +1833,7 @@ Sega Channel (USA) (General Instrument) (Program).md
 Sega Channel (USA) (Scientific Atlanta) (Program).md
 Sega Sound Tool (USA) (v2.2) (Program).md
 Sega Sports 1 (Europe).md
-Sega Top Five (Brazil).md
+Sega Top Five (Brazil) (En).md
 Senjou no Ookami II ~ Mercs (World).md
 Sensible Soccer (Europe) (En,Fr,De,It) (Beta).md
 Sensible Soccer (Europe) (En,Fr,De,It).md
@@ -1868,7 +1876,7 @@ Shining Force II (USA).md
 Shining Force (USA) (Beta).md
 Shining Force (USA) (Genesis Mini).md
 Shining Force (USA).md
-Shining in the Darkness (Brazil).md
+Shining in the Darkness (Brazil) (En).md
 Shining in the Darkness (USA, Europe).md
 Shinobi III - Return of the Ninja Master (Europe).md
 Shinobi III - Return of the Ninja Master (USA) (Beta) (1993-06-29).md
@@ -1885,7 +1893,7 @@ Shui Hu - Feng Yun Zhuan (Taiwan) (Unl).md
 Shui Hu Zhuan (Taiwan) (Unl).md
 Shura no Mon (Japan).md
 Side Pocket (Europe).md
-Side Pocket (Japan, Korea).md
+Side Pocket (Japan, Korea) (Ja).md
 Side Pocket (USA).md
 Simpsons, The - Bart vs. the Space Mutants (USA, Europe) (Rev A).md
 Simpsons, The - Bart vs. the Space Mutants (USA, Europe).md
@@ -1917,7 +1925,7 @@ Sonic & Knuckles + Sonic The Hedgehog 2 (World).md
 Sonic & Knuckles + Sonic The Hedgehog 3 (Europe).md
 Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En).md
 Sonic & Knuckles + Sonic The Hedgehog 3 (USA).md
-Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea).md
+Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea) (En).md
 Sonic & Knuckles + Sonic The Hedgehog (USA, Europe).md
 Sonic & Knuckles (World) (Beta) (1994-05-25).md
 Sonic & Knuckles (World) (Beta) (1994-06-06).md
@@ -1930,15 +1938,15 @@ Sonic & Knuckles (World) (Sonic Classic Collection).md
 Sonic & Knuckles (World).md
 Sonic 3 (Europe).md
 Sonic 3D Blast - Director's Cut (World) (Unl).md
-Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea).md
-Sonic 3D Blast (USA, Europe, Korea) (Beta) (1996-07-03).md
-Sonic 3D Blast (USA, Europe, Korea) (Beta) (1996-08-14).md
-Sonic 3D Blast (USA, Europe, Korea) (Beta) (1996-08-19).md
-Sonic 3D Blast (USA, Europe, Korea) (Beta) (1996-08-25).md
-Sonic 3D Blast (USA, Europe, Korea) (Beta) (1996-08-30).md
-Sonic 3D Blast (USA, Europe, Korea) (Beta) (1996-08-31).md
-Sonic 3D Blast (USA, Europe, Korea) (Beta) (1996-09-04).md
-Sonic Compilation ~ Sonic Classics (USA, Europe, Korea) (Rev A).md
+Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea) (En).md
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-07-03).md
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-14).md
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-19).md
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-25).md
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-30).md
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-31).md
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-09-04).md
+Sonic Compilation ~ Sonic Classics (USA, Europe, Korea) (En) (Rev A).md
 Sonic Compilation (Europe).md
 Sonic Crackers (World) (Proto) (1994-07-xx).md
 Sonic Eraser (Japan) (SegaNet).md
@@ -1966,7 +1974,7 @@ Sonic The Hedgehog 2 (World) (Rev A) (Sonic Classic Collection).md
 Sonic The Hedgehog 2 (World) (Rev A).md
 Sonic The Hedgehog 2 (World) (Rev B).md
 Sonic The Hedgehog 2 (World).md
-Sonic The Hedgehog 3 (Japan, Korea).md
+Sonic The Hedgehog 3 (Japan, Korea) (Ja).md
 Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto) (1994-04-08).md
 Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto) (1994-05-17).md
 Sonic The Hedgehog 3 (Unknown) (Beta) (1993-11-03).md
@@ -1974,7 +1982,7 @@ Sonic The Hedgehog 3 (USA) (1993-11-20) (Sega Channel).md
 Sonic The Hedgehog 3 (USA) (Sonic Classic Collection).md
 Sonic The Hedgehog 3 (USA).md
 Sonic The Hedgehog (Japan) (En) (Virtual Console).md
-Sonic The Hedgehog (Japan, Europe, Korea).md
+Sonic The Hedgehog (Japan, Europe, Korea) (En).md
 Sonic The Hedgehog (Unknown) (Beta).md
 Sonic The Hedgehog (USA, Europe) (Sonic Classic Collection).md
 Sonic The Hedgehog (USA, Europe).md
@@ -2014,8 +2022,8 @@ Splatterhouse 2 (USA) (1992-03-02) (Sega Channel).md
 Splatterhouse 2 (USA).md
 Splatterhouse 3 (USA).md
 Splatterhouse Part 2 (Japan).md
-Splatterhouse Part 3 (Japan, Korea).md
-Sport Games (Brazil).md
+Splatterhouse Part 3 (Japan, Korea) (Ja).md
+Sport Games (Brazil) (En).md
 Sports Talk Baseball (USA).md
 Spot Goes to Hollywood (Europe).md
 Spot Goes to Hollywood (USA).md
@@ -2043,7 +2051,7 @@ Stargate (USA, Europe) (Sample) (NGen).md
 Stargate (USA, Europe).md
 Steel Empire (USA) (1992-03-13) (Sega Channel).md
 Steel Empire (USA).md
-Steel Talons (Japan, Korea).md
+Steel Talons (Japan, Korea) (Ja).md
 Steel Talons (USA, Europe) (Beta).md
 Steel Talons (USA, Europe).md
 Stone Protectors (USA) (Proto).md
@@ -2066,12 +2074,12 @@ Street Fighter II' - Special Champion Edition (Europe) (Virtual Console).md
 Street Fighter II' - Special Champion Edition (Europe).md
 Street Fighter II' - Special Champion Edition (USA) (Virtual Console).md
 Street Fighter II' - Special Champion Edition (USA).md
-Street Fighter II' Plus - Champion Edition (Japan, Korea).md
+Street Fighter II' Plus - Champion Edition (Japan, Korea) (Ja).md
 Street Fighter II' Plus - Champion Edition (Japan) (Virtual Console).md
 Street Racer (Europe) (Beta) (1995-03-21).md
 Street Racer (Europe).md
-Street Smart (Japan, USA) (Beta) (1990-06-29).md
-Street Smart (Japan, USA).md
+Street Smart (Japan, USA) (En) (Beta) (1990-06-29).md
+Street Smart (Japan, USA) (En).md
 Streets of Rage 2 (Japan) (En,Ja) (Mega Drive Mini).md
 Streets of Rage 2 (USA).md
 Streets of Rage 3 (Asia) (En).md
@@ -2092,7 +2100,7 @@ Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-11).md
 Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-12).md
 Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-13).md
 Streets of Rage 3 (USA).md
-Strider Hiryuu (Japan, Korea).md
+Strider Hiryuu (Japan, Korea) (Ja).md
 Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini).md
 Strider Hiryuu (Japan) (Rev A) (Virtual Console).md
 Strider II (Europe).md
@@ -2146,10 +2154,10 @@ Super Monaco GP (World) (En,Ja) (Rev A).md
 Super Monaco GP (World) (En,Ja).md
 Super Off Road (USA, Europe) (Unl).md
 Super Real Basketball (Europe).md
-Super Real Basketball (Japan, Korea).md
+Super Real Basketball (Japan, Korea) (Ja).md
 Super Shinobi II, The (Japan) (Beta 1).md
 Super Shinobi II, The (Japan) (Beta 2).md
-Super Shinobi II, The (Japan, Korea).md
+Super Shinobi II, The (Japan, Korea) (Ja).md
 Super Shinobi, The (Japan) (En) (Beta) (1989-08-21) (Sega Channel).md
 Super Shinobi, The (Japan) (En) (Beta) (1989-xx-xx) (Sega Smash Pack).md
 Super Shinobi, The (Japan).md
@@ -2241,7 +2249,7 @@ Teenage Mutant Ninja Turtles - Tournament Fighters (Japan).md
 Teenage Mutant Ninja Turtles - Tournament Fighters (USA).md
 Teitoku no Ketsudan (Japan).md
 Tekken Special (Taiwan) (En) (Unl).md
-Telebradesco Residencia (Brazil) (Program).md
+Telebradesco Residencia (Brazil) (En) (Program).md
 Tel-Tel Mahjong (Japan).md
 Tel-Tel Stadium (Japan).md
 Tenchi o Kurau III - Sangoku Gaiden (Taiwan) (Unl).md
@@ -2256,8 +2264,8 @@ Theme Park (USA, Europe) (En,Fr,De,Es).md
 Thomas the Tank Engine & Friends (USA).md
 Thunder Force II MD (Japan).md
 Thunder Force II (USA, Europe).md
-Thunder Force III (Japan, USA) (Beta) (1990-08-01).md
-Thunder Force III (Japan, USA).md
+Thunder Force III (Japan, USA) (En) (Beta) (1990-08-01).md
+Thunder Force III (Japan, USA) (En).md
 Thunder Force IV (Europe).md
 Thunder Force IV (Japan).md
 Thunder Force IV (World) (Sega Ages).md
@@ -2266,7 +2274,7 @@ Thunder Fox (USA).md
 Thunder Pro Wrestling Retsuden (Japan).md
 Thunderbolt II (Taiwan) (En) (Unl).md
 Tick, The (USA).md
-Time Dominator 1st (Japan, Korea).md
+Time Dominator 1st (Japan, Korea) (Ja).md
 Time Killers (Europe).md
 Time Killers (USA).md
 Time Trax (USA) (Proto).md
@@ -2275,11 +2283,11 @@ Tinhead (USA) (Spectrum HoloByte) (October, 1995).md
 Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv) (Beta).md
 Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv).md
 Tiny Toon Adventures - ACME All-Stars (Europe) (En,Fr,De).md
-Tiny Toon Adventures - ACME All-Stars (USA, Korea).md
+Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En).md
 Tiny Toon Adventures - Buster's Hidden Treasure (Europe).md
 Tiny Toon Adventures - Buster's Hidden Treasure (USA).md
 Tiny Toon Adventures 3 (Taiwan) (En) (Unl).md
-Tiny Toon Adventures (Korea).md
+Tiny Toon Adventures (Korea) (En).md
 TNN Bass Tournament of Champions (USA).md
 TNN Outdoors Bass Tournament '96 (USA).md
 Todd's Adventures in Slime World (USA).md
@@ -2289,8 +2297,8 @@ ToeJam & Earl in Panic on Funkotron (USA) (1993-09-11) (Sega Channel).md
 ToeJam & Earl in Panic on Funkotron (USA) (Beta) (August, 1993).md
 ToeJam & Earl in Panic on Funkotron (USA).md
 ToeJam & Earl in Panik auf Funkotron (Germany).md
-ToeJam & Earl (Japan, Europe) (Rev A).md
-ToeJam & Earl (USA, Europe, Korea).md
+ToeJam & Earl (Japan, Europe) (En) (Rev A).md
+ToeJam & Earl (USA, Europe, Korea) (En).md
 Toki - Going Ape Spit (USA, Europe).md
 Toki no Keishousha - Phantasy Star III (Japan).md
 Tom and Jerry - Frantic Antics (Japan) (En).md
@@ -2331,8 +2339,8 @@ True Lies (World).md
 Tun Shi Tian Di 3 - San Guo Wai Chuan (Taiwan) (Unl).md
 Tun Shi Tian Di III (Taiwan) (Simple Chinese) (Unl).md
 Tun Shi Tian Di III (Taiwan) (Unl).md
-Turbo OutRun (Japan, Europe) (Beta) (1991-12-09).md
-Turbo OutRun (Japan, Europe).md
+Turbo OutRun (Japan, Europe) (En) (Beta) (1991-12-09).md
+Turbo OutRun (Japan, Europe) (En).md
 Turma da Monica na Terra dos Monstros (Brazil).md
 Turrican (USA, Europe) (Unl).md
 Twin Cobra - Desert Attack Helicopter (USA).md
@@ -2391,7 +2399,7 @@ Verytex (Japan).md
 Viewpoint (USA) (Beta) (1994-07-22).md
 Viewpoint (USA) (Beta) (August, 1994).md
 Viewpoint (USA).md
-Virtua Fighter 2 (Korea).md
+Virtua Fighter 2 (Korea) (En).md
 Virtua Fighter 2 (USA, Europe) (Beta) (1996-08-19).md
 Virtua Fighter 2 (USA, Europe) (Beta) (1996-08-30).md
 Virtua Fighter 2 (USA, Europe) (Beta) (1996-09-13).md
@@ -2456,10 +2464,10 @@ Wiz 'N' Liz (USA).md
 Wizard of the Immortal (Japan).md
 Wolfchild (USA).md
 Wolverine - Adamantium Rage (USA, Europe).md
-Wonder Boy III - Monster Lair (Japan, Europe).md
+Wonder Boy III - Monster Lair (Japan, Europe) (En).md
 Wonder Boy in Monster World (USA, Europe).md
-Wonder Boy V - Monster World III (Japan, Korea) (Beta) (1991-07-25).md
-Wonder Boy V - Monster World III (Japan, Korea).md
+Wonder Boy V - Monster World III (Japan, Korea) (Ja) (Beta) (1991-07-25).md
+Wonder Boy V - Monster World III (Japan, Korea) (Ja).md
 Wonder Library (Japan) (Program).md
 World Championship Soccer II (Europe).md
 World Championship Soccer II (USA) (Beta) (1994-02-22).md
@@ -2485,9 +2493,9 @@ World Championship Soccer II (USA).md
 World Class Leader Board (Europe).md
 World Class Leaderboard Golf (USA).md
 World Cup Italia '90 (Europe).md
-World Cup Soccer ~ World Championship Soccer (Japan, USA) (Rev A).md
-World Cup Soccer ~ World Championship Soccer (Japan, USA) (Rev B).md
-World Cup Soccer ~ World Championship Soccer (Japan, USA).md
+World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev A).md
+World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev B).md
+World Cup Soccer ~ World Championship Soccer (Japan, USA) (En).md
 World Cup Soccer (Japan) (En).md
 World Cup USA 94 (USA, Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv).md
 World Heroes (Asia) (En) (Beta) (1994-03-30).md
@@ -2510,10 +2518,10 @@ World Heroes (USA) (Beta) (1994-03-30).md
 World Heroes (USA) (Beta) (1994-03-31) (Alt).md
 World Heroes (USA) (Beta) (1994-03-31).md
 World Heroes (USA).md
-World of Illusion starring Mickey Mouse & Donald Duck (USA, Korea) (Beta 1).md
-World of Illusion starring Mickey Mouse & Donald Duck (USA, Korea) (Beta 2).md
+World of Illusion starring Mickey Mouse & Donald Duck (USA, Korea) (En) (Beta 2).md
+World of Illusion starring Mickey Mouse & Donald Duck (USA, Korea) (Ja) (Beta 1).md
 World of Illusion Starring Mickey Mouse and Donald Duck (Europe).md
-World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea).md
+World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En).md
 World Series Baseball '95 (USA) (Beta) (1994-12-08).md
 World Series Baseball '95 (USA) (Beta) (1994-12-14).md
 World Series Baseball '95 (USA) (Beta) (1994-12-28).md
@@ -2555,8 +2563,8 @@ World Trophy Soccer (USA).md
 Worms (Europe) (Beta).md
 Worms (Europe).md
 Worms (USA) (Proto) (June, 1995).md
-Wrestle War (Japan, Europe) (Beta) (September, 1990).md
-Wrestle War (Japan, Europe).md
+Wrestle War (Japan, Europe) (En).md
+Wrestle War (Japan, Europe) (Ja) (Beta) (September, 1990).md
 Wrestleball (Japan).md
 Wu Kong Wai Zhuan (Taiwan) (Unl) (Alt).md
 Wu Kong Wai Zhuan (Taiwan) (Unl).md
@@ -2617,6 +2625,7 @@ Zero the Kamikaze Squirrel (USA).md
 Zero Tolerance (USA, Europe) (Rev A).md
 Zero Wing (Europe).md
 Zero Wing (Japan).md
+Zero Wing (USA) (Aftermarket) (Unl).md
 Zhan Qi Chinese Battle Chess (Taiwan) (Unl).md
 Zhong Guo Xiang Qi (Taiwan) (Unl).md
 Zhuo Gui Da Shi - Ghost Hunter (Taiwan) (Unl).md
