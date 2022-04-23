@@ -1,62 +1,62 @@
 20 em 1 (Brazil).sms
-3 in 1 - The Best Game Collection (A) (Korea) (Unl).sms
-3 in 1 - The Best Game Collection (B) (Korea) (Unl).sms
-3 in 1 - The Best Game Collection (C) (Korea) (Unl).sms
-3 in 1 - The Best Game Collection (D) (Korea) (Unl).sms
-3 in 1 - The Best Game Collection (E) (Korea) (Unl).sms
-3 in 1 - The Best Game Collection (F) (Korea) (Unl).sms
+3 in 1 - The Best Game Collection (A) (Korea) (En) (Unl).sms
+3 in 1 - The Best Game Collection (B) (Korea) (En) (Unl).sms
+3 in 1 - The Best Game Collection (C) (Korea) (En) (Unl).sms
+3 in 1 - The Best Game Collection (D) (Korea) (En) (Unl).sms
+3 in 1 - The Best Game Collection (E) (Korea) (En) (Unl).sms
+3 in 1 - The Best Game Collection (F) (Korea) (En) (Unl).sms
 3D Gunner (USA) (Beta).sms
 4 PAK All Action (Australia) (Unl).sms
-8 in 1 - The Best Game Collection (A) (Korea) (Unl).sms
-8 in 1 - The Best Game Collection (B) (Korea) (Unl).sms
-8 in 1 - The Best Game Collection (C) (Korea) (Unl).sms
+8 in 1 - The Best Game Collection (A) (Korea) (En) (Unl).sms
+8 in 1 - The Best Game Collection (B) (Korea) (En) (Unl).sms
+8 in 1 - The Best Game Collection (C) (Korea) (En) (Unl).sms
 94 Super World Cup Soccer (Korea) (Unl).sms
 94-Nen Super Basketball (Taiwan) (En) (Unl).sms
-Ace of Aces (Europe, Brazil).sms
+Ace of Aces (Europe, Brazil) (En).sms
 Action Boy (Taiwan) (En) (Unl).sms
-Action Fighter (Japan, Europe) (Beta).sms
-Action Fighter (Japan, Europe).sms
+Action Fighter (Japan, Europe) (En) (Beta).sms
+Action Fighter (Japan, Europe) (Ja).sms
 Action Fighter (Taiwan) (Unl).sms
-Action Fighter (USA, Europe, Brazil) (Rev 1).sms
+Action Fighter (USA, Europe, Brazil) (En) (Rev 1).sms
 Addams Family, The (Europe).sms
-Aerial Assault (Europe, Brazil).sms
+Aerial Assault (Europe, Brazil) (En).sms
 Aerial Assault (Taiwan) (En) (Unl).sms
 Aerial Assault (USA).sms
 After Burner (World).sms
 Agigongnyong Dooly (Korea) (Unl).sms
-Air Rescue (Europe, Brazil).sms
-Aladdin (Europe, Brazil).sms
+Air Rescue (Europe, Brazil) (En).sms
+Aladdin (Europe, Brazil) (En).sms
 Aleste (Japan).sms
-Alex Kidd - High-Tech World (USA, Europe, Brazil) (Beta).sms
-Alex Kidd - High-Tech World (USA, Europe, Brazil).sms
+Alex Kidd - High-Tech World (USA, Europe, Brazil) (En) (Beta).sms
+Alex Kidd - High-Tech World (USA, Europe, Brazil) (En).sms
 Alex Kidd - The Lost Stars (World).sms
 Alex Kidd in Miracle World 2 (World) (Unl).sms
-Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).sms
+Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1).sms
 Alex Kidd in Miracle World (USA, Europe).sms
 Alex Kidd in Miracle World (World) (Ja) (Sega Ages).sms
 Alex Kidd in Miracle World (World) (Sega Ages).sms
-Alex Kidd in Shinobi World (USA, Europe, Brazil).sms
+Alex Kidd in Shinobi World (USA, Europe, Brazil) (En).sms
 Alex Kidd no Miracle World (Japan).sms
 Alex Kido (Taiwan) (En) (Unl).sms
 Alf (USA).sms
-Alibaba and 40 Thieves (Korea) (Unl).sms
-Alien 3 (Europe, Brazil).sms
-Alien Storm (Europe, Brazil).sms
+Alibaba and 40 Thieves (Korea) (En) (Unl).sms
+Alien 3 (Europe, Brazil) (En).sms
+Alien Storm (Europe, Brazil) (En).sms
 Alien Syndrome (Japan).sms
-Alien Syndrome (USA, Europe, Brazil) (Beta).sms
-Alien Syndrome (USA, Europe, Brazil).sms
+Alien Syndrome (USA, Europe, Brazil) (En) (Beta).sms
+Alien Syndrome (USA, Europe, Brazil) (En).sms
 Alocos (Taiwan) (En) (Unl).sms
-Altered Beast (USA, Europe, Brazil).sms
-American Baseball (Europe, Brazil).sms
+Altered Beast (USA, Europe, Brazil) (En).sms
+American Baseball (Europe, Brazil) (En).sms
 American Pro Football (Europe).sms
-Andre Agassi Tennis (Europe, Brazil).sms
+Andre Agassi Tennis (Europe, Brazil) (En).sms
 Anmitsu Hime (Japan).sms
 Arcade Smash Hits (Europe).sms
 Argos no Juujiken (Japan).sms
-Ariel - The Little Mermaid (Brazil).sms
+Ariel - The Little Mermaid (Brazil) (En).sms
 Ashura (Japan).sms
 Assault City (Europe) (Joypad).sms
-Assault City (USA, Europe, Brazil) (Light Phaser).sms
+Assault City (USA, Europe, Brazil) (En) (Light Phaser).sms
 Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It).sms
 Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De).sms
 Asterix (Europe, Brazil) (En,Fr) (Rev 1).sms
@@ -64,24 +64,24 @@ Asterix (Europe, Brazil) (En,Fr).sms
 Astro Adventure (Taiwan) (En) (Unl).sms
 Astro Flash (Japan).sms
 Astro Warrior & Pit Pot (Europe).sms
-Astro Warrior (Japan, USA, Brazil).sms
+Astro Warrior (Japan, USA, Brazil) (En).sms
 Aventuras da TV Colosso, As (Brazil).sms
-Ayrton Senna's Super Monaco GP II (Europe, Brazil).sms
+Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En).sms
 Aztec Adventure (World).sms
-Back to the Future Part II (Europe, Brazil).sms
+Back to the Future Part II (Europe, Brazil) (En).sms
 Back to the Future Part III (Europe).sms
-Baku Baku (Brazil).sms
-Bank Panic (Europe, Brazil).sms
-Basketball Nightmare (Europe, Brazil) (Beta).sms
-Basketball Nightmare (Europe, Brazil).sms
-Batman Returns (Europe, Brazil).sms
-Battle Out Run (Europe, Brazil).sms
+Baku Baku (Brazil) (En).sms
+Bank Panic (Europe, Brazil) (En).sms
+Basketball Nightmare (Europe, Brazil) (En) (Beta).sms
+Basketball Nightmare (Europe, Brazil) (En).sms
+Batman Returns (Europe, Brazil) (En).sms
+Battle Out Run (Europe, Brazil) (En).sms
 Battle Wings (World) (Beta) (1988-09-07).sms
-Battlemaniacs (Brazil).sms
+Battlemaniacs (Brazil) (En).sms
 [BIOS] Alex Kidd in Miracle World (BIOS Version) (World) (Sega Ages).sms
 [BIOS] Alex Kidd in Miracle World (Korea) (Unl).sms
 [BIOS] Alex Kidd in Miracle World (USA, Europe).sms
-[BIOS] Hang On & Safari Hunt (USA, Europe, Brazil) (v2.4).sms
+[BIOS] Hang On & Safari Hunt (USA, Europe, Brazil) (En) (v2.4).sms
 [BIOS] Hang On (USA, Europe) (v3.4).sms
 [BIOS] Missile Defense 3-D (USA, Europe) (v4.4).sms
 [BIOS] Sega Master System (Europe) (v2.0).sms
@@ -92,68 +92,68 @@ Battlemaniacs (Brazil).sms
 [BIOS] Sega Master System (USA) (v1.0) (Proto).sms
 [BIOS] Sonic The Hedgehog (Europe).sms
 Black Belt (Taiwan) (En) (Unl).sms
-Black Belt (USA, Europe, Brazil).sms
+Black Belt (USA, Europe, Brazil) (En).sms
 Blade Eagle 3-D (World).sms
 Blade Eagle (World) (Beta).sms
 BMX Trial - Alex Kidd (Japan).sms
-Bobble Bobble (Korea) (Unl).sms
+Bobble Bobble (Korea) (En) (Unl).sms
 Bomber Raid (World).sms
-Bonanza Bros. (Europe, Brazil).sms
-Bonkers Wax Up! (Brazil).sms
+Bonanza Bros. (Europe, Brazil) (En).sms
+Bonkers Wax Up! (Brazil) (En).sms
 Bram Stoker's Dracula (Europe).sms
-Bubble Bobble (Europe, Brazil).sms
+Bubble Bobble (Europe, Brazil) (En).sms
 Bubble Bobble (Taiwan) (En) (Unl).sms
-Buggy Run (Europe, Brazil).sms
+Buggy Run (Europe, Brazil) (En).sms
 California Games II (Europe).sms
-California Games (USA, Europe, Brazil).sms
-Captain Silver (Japan, Europe, Brazil).sms
+California Games (USA, Europe, Brazil) (En).sms
+Captain Silver (Japan, Europe, Brazil) (En).sms
 Captain Silver (USA) (Beta).sms
 Captain Silver (USA).sms
 Casino Games (USA, Europe).sms
 Castelo Ra-Tim-Bum (Brazil).sms
-Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (Demo).sms
-Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (Rev 1).sms
-Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil).sms
-Champions of Europe (Europe, Brazil).sms
+Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo).sms
+Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Rev 1).sms
+Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En).sms
+Champions of Europe (Europe, Brazil) (En).sms
 Championship Hockey (Europe).sms
 Chapolim x Dracula - Um Duelo Assustador (Brazil).sms
 Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil) (En,Fr,De,Es).sms
 Choplifter (Japan) (Proto).sms
-Choplifter (USA, Europe, Brazil) (Beta).sms
-Choplifter (USA, Europe, Brazil).sms
+Choplifter (USA, Europe, Brazil) (En) (Beta).sms
+Choplifter (USA, Europe, Brazil) (En).sms
 Chouon Senshi Borgman (Japan) (Beta).sms
 Chouon Senshi Borgman (Japan).sms
-Chuck Rock (Europe, Brazil).sms
-Chuck Rock II - Son of Chuck (Brazil).sms
+Chuck Rock (Europe, Brazil) (En).sms
+Chuck Rock II - Son of Chuck (Brazil) (En).sms
 Chuck Rock II - Son of Chuck (Europe).sms
 Circuit, The (Japan).sms
-Cloud Master (USA, Europe, Brazil).sms
+Cloud Master (USA, Europe, Brazil) (En).sms
 Color & Switch Test (Japan) (En) (Proto).sms
-Columns (USA, Europe, Brazil) (Beta).sms
-Columns (USA, Europe, Brazil).sms
+Columns (USA, Europe, Brazil) (En) (Beta).sms
+Columns (USA, Europe, Brazil) (En).sms
 Comical Machine Gun Joe (Japan).sms
 Comical Machine Gun Joe (Korea) (Unl).sms
 Comical Machine Gun Joe (Taiwan) (Unl).sms
 Cool Spot (Europe).sms
 Cosmic Spacehead (Europe) (En,Fr,De,Es).sms
 C_So! (Korea) (Unl).sms
-Cyber Shinobi, The (Europe, Brazil) (Beta).sms
-Cyber Shinobi, The (Europe, Brazil).sms
+Cyber Shinobi, The (Europe, Brazil) (En) (Beta).sms
+Cyber Shinobi, The (Europe, Brazil) (En).sms
 Cyber Shinobi, The (Taiwan) (En) (Unl).sms
-Cyborg Hunter (USA, Europe, Brazil) (Sample) (1988-09-12).sms
-Cyborg Hunter (USA, Europe, Brazil).sms
+Cyborg Hunter (USA, Europe, Brazil) (En) (Sample) (1988-09-12).sms
+Cyborg Hunter (USA, Europe, Brazil) (En).sms
 Cyborg Z (Korea) (Unl).sms
 Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).sms
 Dallyeora Pigu-Wang (Korea) (Unl).sms
-Danan - The Jungle Fighter (Europe, Brazil).sms
-Dead Angle (USA, Europe, Brazil) (Beta).sms
-Dead Angle (USA, Europe, Brazil).sms
-Deep Duck Trouble Starring Donald Duck (Europe, Brazil).sms
+Danan - The Jungle Fighter (Europe, Brazil) (En).sms
+Dead Angle (USA, Europe, Brazil) (En) (Beta).sms
+Dead Angle (USA, Europe, Brazil) (En).sms
+Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En).sms
 Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil) (En,Fr,De,Es,It).sms
 Desert Strike (Europe) (En,Fr,De,Es).sms
-Dick Tracy (USA, Europe, Brazil).sms
+Dick Tracy (USA, Europe, Brazil) (En).sms
 DINOBASHER - Starring Bignose the Caveman (Europe) (Proto).sms
-Dinosaur Dooley, The (Korea) (Unl).sms
+Dinosaur Dooley, The (Korea) (En) (Unl).sms
 Doki Doki Penguin Land - Uchuu Daibouken (Japan) (Beta).sms
 Doki Doki Penguin Land - Uchuu Daibouken (Japan).sms
 Double Dragon (Taiwan) (En) (Unl).sms
@@ -162,37 +162,37 @@ Double Hawk (Europe) (Beta).sms
 Double Hawk (Europe).sms
 Double Target - Cynthia no Nemuri (Japan).sms
 Dr. HELLO (Korea) (Unl).sms
-Dr. Robotnik's Mean Bean Machine (Europe, Brazil).sms
+Dr. Robotnik's Mean Bean Machine (Europe, Brazil) (En).sms
 Dragon - The Bruce Lee Story (Europe).sms
-Dragon Crystal (Europe, Brazil).sms
-Dynamite Duke (Europe, Brazil).sms
-Dynamite Dux (Europe, Brazil).sms
-Dynamite Headdy (Brazil).sms
+Dragon Crystal (Europe, Brazil) (En).sms
+Dynamite Duke (Europe, Brazil) (En).sms
+Dynamite Dux (Europe, Brazil) (En).sms
+Dynamite Headdy (Brazil) (En).sms
 Eagles 5 (Korea) (Unl).sms
-Earthworm Jim (Brazil).sms
+Earthworm Jim (Brazil) (En).sms
 Ecco - The Tides of Time (Brazil).sms
-Ecco The Dolphin (Europe, Brazil).sms
-E.I. - Exa Innova (Korea) (Unl).sms
+Ecco The Dolphin (Europe, Brazil) (En).sms
+E.I. - Exa Innova (Korea) (En) (Unl).sms
 Enduro Racer (Japan).sms
-Enduro Racer (USA, Europe, Brazil).sms
-E-SWAT (USA, Europe, Brazil) (Beta 1).sms
-E-SWAT (USA, Europe, Brazil) (Beta 2).sms
-E-SWAT (USA, Europe, Brazil) (Beta 3).sms
-E-SWAT (USA, Europe, Brazil) (Rev A).sms
-E-SWAT (USA, Europe, Brazil).sms
+Enduro Racer (USA, Europe, Brazil) (En).sms
+E-SWAT (USA, Europe, Brazil) (En) (Beta 1).sms
+E-SWAT (USA, Europe, Brazil) (En) (Beta 2).sms
+E-SWAT (USA, Europe, Brazil) (En) (Beta 3).sms
+E-SWAT (USA, Europe, Brazil) (En) (Rev A).sms
+E-SWAT (USA, Europe, Brazil) (En).sms
 Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto).sms
-F1 (Europe, Brazil).sms
-F-1 Spirit - The Way to Formula-1 (Korea) (Unl).sms
-F-16 Fighter (USA, Europe, Brazil).sms
+F1 (Europe, Brazil) (En).sms
+F-1 Spirit - The Way to Formula-1 (Korea) (En) (Unl).sms
+F-16 Fighter (USA, Europe, Brazil) (En).sms
 F-16 Fighting Falcon (Japan).sms
 F-16 Fighting Falcon (Taiwan) (Unl).sms
 F-16 Fighting Falcon (USA).sms
 FA Tetris (Korea) (Unl).sms
 Family Games (Japan).sms
 Fantastic Dizzy (Europe) (En,Fr,De,Es,It).sms
-Fantasy Zone - The Maze (USA, Europe, Brazil).sms
+Fantasy Zone - The Maze (USA, Europe, Brazil) (En).sms
 Fantasy Zone II - Opa-Opa no Namida (Japan).sms
-Fantasy Zone II (USA, Europe, Brazil).sms
+Fantasy Zone II (USA, Europe, Brazil) (En).sms
 Fantasy Zone (Japan).sms
 Fantasy Zone (Taiwan) (Unl).sms
 Fantasy Zone (World) (Beta).sms
@@ -201,60 +201,60 @@ Ferias Frustradas do Pica Pau (Brazil).sms
 FIFA International Soccer (Brazil) (En,Es,Pt).sms
 Final Bubble Bobble (Japan).sms
 Fire & Forget II (Europe).sms
-Fire & Ice (Brazil).sms
-Flash, The (Europe, Brazil).sms
+Fire & Ice (Brazil) (En).sms
+Flash, The (Europe, Brazil) (En).sms
 Flashpoint (Korea) (Unl).sms
-Flintstones, The (Europe, Brazil).sms
-Forgotten Worlds (Europe, Brazil).sms
+Flintstones, The (Europe, Brazil) (En).sms
+Forgotten Worlds (Europe, Brazil) (En).sms
 Forgotten Worlds (Taiwan) (En) (Unl).sms
 Fushigi no Oshiro Pit Pot (Japan).sms
 Gaegujangi Ggachi (Korea) (Unl).sms
-Gain Ground (Europe, Brazil) (Beta).sms
-Gain Ground (Europe, Brazil).sms
+Gain Ground (Europe, Brazil) (En) (Beta).sms
+Gain Ground (Europe, Brazil) (En).sms
 Galactic Protector (Japan).sms
 Galaxian (Korea) (Unl).sms
-Galaxy Force (Europe, Brazil).sms
+Galaxy Force (Europe, Brazil) (En).sms
 Galaxy Force (USA).sms
-Game Box Serie Esportes Radicais (Brazil).sms
+Game Box Serie Esportes Radicais (Brazil) (En).sms
 Game de Check! Koutsuu Anzen (Japan) (Proto).sms
-Gangcheol RoboCop (Korea) (Unl).sms
-Gangster Town (USA, Europe, Brazil).sms
-Gauntlet (Europe, Brazil).sms
-George Foreman's KO Boxing (Europe, Brazil).sms
-Geraldinho (Brazil).sms
+Gangcheol RoboCop (Korea) (En) (Unl).sms
+Gangster Town (USA, Europe, Brazil) (En).sms
+Gauntlet (Europe, Brazil) (En).sms
+George Foreman's KO Boxing (Europe, Brazil) (En).sms
+Geraldinho (Brazil) (En).sms
 Ghost House (Japan).sms
-Ghost House (USA, Europe, Brazil) (Beta).sms
-Ghost House (USA, Europe, Brazil).sms
-Ghostbusters (USA, Europe, Brazil).sms
-Ghouls'n Ghosts (USA, Europe, Brazil) (Demo).sms
-Ghouls'n Ghosts (USA, Europe, Brazil).sms
-Global Defense (USA, Europe, Brazil) (Beta).sms
-Global Defense (USA, Europe, Brazil).sms
-Global Gladiators (Europe, Brazil).sms
-G-LOC Air Battle (Europe, Brazil).sms
+Ghost House (USA, Europe, Brazil) (En) (Beta).sms
+Ghost House (USA, Europe, Brazil) (En).sms
+Ghostbusters (USA, Europe, Brazil) (En).sms
+Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo).sms
+Ghouls'n Ghosts (USA, Europe, Brazil) (En).sms
+Global Defense (USA, Europe, Brazil) (En) (Beta).sms
+Global Defense (USA, Europe, Brazil) (En).sms
+Global Gladiators (Europe, Brazil) (En).sms
+G-LOC Air Battle (Europe, Brazil) (En).sms
 Gokuaku Doumei Dump Matsumoto (Japan).sms
-Golden Axe (USA, Europe, Brazil).sms
-Golden Axe Warrior (USA, Europe, Brazil).sms
+Golden Axe (USA, Europe, Brazil) (En).sms
+Golden Axe Warrior (USA, Europe, Brazil) (En).sms
 Golfamania (Europe) (Beta).sms
-Golfamania (Europe, Brazil).sms
-Golvellius - Valley of Doom (USA, Europe, Brazil).sms
-GP Rider (Europe, Brazil).sms
+Golfamania (Europe, Brazil) (En).sms
+Golvellius - Valley of Doom (USA, Europe, Brazil) (En).sms
+GP Rider (Europe, Brazil) (En).sms
 Great Baseball (Japan).sms
 Great Baseball (USA, Europe).sms
 Great Basketball (World).sms
 Great Football (World).sms
 Great Golf (Japan).sms
-Great Golf (Korea) (Unl).sms
+Great Golf (Korea) (En) (Unl).sms
 Great Golf (World) (Beta).sms
 Great Golf (World).sms
-Great Ice Hockey (Japan, USA).sms
+Great Ice Hockey (Japan, USA) (En).sms
 Great Soccer (Europe).sms
 Great Soccer (Japan).sms
 Great Soccer (Taiwan) (Unl).sms
 Great Tennis (Japan).sms
 Great Volleyball (Japan).sms
-Great Volleyball (USA, Europe, Brazil).sms
-Gun.Smoke (Korea) (Unl).sms
+Great Volleyball (USA, Europe, Brazil) (En).sms
+Gun.Smoke (Korea) (En) (Unl).sms
 Haja no Fuuin (Japan).sms
 Hang On & Astro Warrior (USA).sms
 Hang On & Safari Hunt (USA) (Beta).sms
@@ -262,9 +262,9 @@ Hang On & Safari Hunt (USA).sms
 Hang On (Europe) (Beta).sms
 Hang On (Europe).sms
 Hang On (Japan).sms
-Heavyweight Champ (Europe, Brazil).sms
-Heroes of the Lance (Europe, Brazil) (Beta).sms
-Heroes of the Lance (Europe, Brazil).sms
+Heavyweight Champ (Europe, Brazil) (En).sms
+Heroes of the Lance (Europe, Brazil) (En) (Beta).sms
+Heroes of the Lance (Europe, Brazil) (En).sms
 High School! Kimengumi (Japan).sms
 Hokuto no Ken (Japan).sms
 Hokuto no Ken (Taiwan) (Unl).sms
@@ -273,114 +273,114 @@ Hong Kil Dong (Korea) (Unl).sms
 Hook (Europe) (Proto).sms
 Hoshi wo Sagashite... (Japan).sms
 Hwarang-ui Geom (Korea) (Unl).sms
-Impossible Mission (Europe, Brazil) (Beta).sms
-Impossible Mission (Europe, Brazil).sms
-Incredible Crash Dummies, The (Europe, Brazil).sms
-Incredible Hulk, The (Europe, Brazil).sms
-Indiana Jones and the Last Crusade (Europe, Brazil).sms
+Impossible Mission (Europe, Brazil) (En) (Beta).sms
+Impossible Mission (Europe, Brazil) (En).sms
+Incredible Crash Dummies, The (Europe, Brazil) (En).sms
+Incredible Hulk, The (Europe, Brazil) (En).sms
+Indiana Jones and the Last Crusade (Europe, Brazil) (En).sms
 Indiana Jones and the Last Crusade (USA) (Proto).sms
-James Bond 007 - The Duel (Brazil).sms
+James Bond 007 - The Duel (Brazil) (En).sms
 James Bond 007 - The Duel (Europe).sms
 James 'Buster' Douglas Knockout Boxing (USA) (Sample).sms
 James 'Buster' Douglas Knockout Boxing (USA).sms
-James Pond 2 - Codename RoboCod (Europe, Brazil).sms
+James Pond 2 - Codename RoboCod (Europe, Brazil) (En).sms
 Jang Pung 3 (Korea) (Unl).sms
 Jang Pung II (Korea) (Unl).sms
 Janggun-ui Adeul (Korea) (Unl).sms
-Joe Montana Football (USA, Europe, Brazil).sms
-Jogos de Verao II (Brazil).sms
-Jungle Book, The (Europe, Brazil).sms
-Jurassic Park (Europe, Brazil).sms
+Joe Montana Football (USA, Europe, Brazil) (En).sms
+Jogos de Verao II (Brazil) (En).sms
+Jungle Book, The (Europe, Brazil) (En).sms
+Jurassic Park (Europe, Brazil) (En).sms
 Kenseiden (Japan).sms
-Kenseiden (USA, Europe, Brazil).sms
-King & Balloon (Korea) (Unl).sms
+Kenseiden (USA, Europe, Brazil) (En).sms
+King & Balloon (Korea) (En) (Unl).sms
 King's Quest - Quest for the Crown (USA) (Beta).sms
 King's Quest - Quest for the Crown (USA).sms
 KLAX (Europe).sms
 Knightmare II - The Maze of Galious (Korea) (Unl).sms
-Krusty's Fun House (Europe, Brazil).sms
+Krusty's Fun House (Europe, Brazil) (En).sms
 Kujaku Ou (Japan).sms
 Kung Fu Kid (Taiwan) (En) (Unl).sms
-Kung Fu Kid (USA, Europe, Brazil).sms
-Land of Illusion Starring Mickey Mouse (Europe, Brazil).sms
+Kung Fu Kid (USA, Europe, Brazil) (En).sms
+Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En).sms
 Laser Ghost (Europe).sms
-Legend of Illusion Starring Mickey Mouse (Brazil).sms
+Legend of Illusion Starring Mickey Mouse (Brazil) (En).sms
 Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04).sms
 Lemmings (Europe) (Beta).sms
-Lemmings (Europe, Brazil).sms
-Line of Fire (Europe, Brazil).sms
-Lion King, The (Europe, Brazil).sms
+Lemmings (Europe, Brazil) (En).sms
+Line of Fire (Europe, Brazil) (En).sms
+Lion King, The (Europe, Brazil) (En).sms
 Lord of Sword (Japan).sms
 Lord of Sword (Taiwan) (Ja) (Unl).sms
-Lord of the Sword (USA, Europe, Brazil).sms
+Lord of the Sword (USA, Europe, Brazil) (En).sms
 Loretta no Shouzou - Sherlock Holmes (Japan).sms
-Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Beta).sms
-Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil).sms
+Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En) (Beta).sms
+Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En).sms
 Mahjong Sengoku Jidai (Japan) (Beta).sms
-Mahjong Sengoku Jidai (Japan, Hong Kong).sms
+Mahjong Sengoku Jidai (Japan, Hong Kong) (Ja).sms
 Makai Retsuden (Japan).sms
 Maou Golvellius (Japan) (Beta).sms
 Maou Golvellius (Japan).sms
 Marble Madness (Europe).sms
 Marksman Shooting & Trap Shooting & Safari Hunt (Europe).sms
-Marksman Shooting & Trap Shooting (USA, Brazil).sms
-Master of Darkness (Europe, Brazil).sms
-Masters of Combat (Europe, Brazil).sms
-Maze Hunter 3-D (USA, Europe, Brazil).sms
+Marksman Shooting & Trap Shooting (USA, Brazil) (En).sms
+Master of Darkness (Europe, Brazil) (En).sms
+Masters of Combat (Europe, Brazil) (En).sms
+Maze Hunter 3-D (USA, Europe, Brazil) (En).sms
 Maze Walker (Japan).sms
 Megumi Rescue (Japan).sms
-Mercs (Europe, Brazil).sms
-Michael Jackson's Moonwalker (USA, Europe, Brazil) (Beta).sms
-Michael Jackson's Moonwalker (USA, Europe, Brazil).sms
-Mickey's Ultimate Challenge (Brazil).sms
+Mercs (Europe, Brazil) (En).sms
+Michael Jackson's Moonwalker (USA, Europe, Brazil) (En) (Beta).sms
+Michael Jackson's Moonwalker (USA, Europe, Brazil) (En).sms
+Mickey's Ultimate Challenge (Brazil) (En).sms
 Micro Machines (Europe).sms
 Micro Xevious, The (Korea) (Unl).sms
-Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (Beta).sms
-Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil).sms
-Missile Defense 3-D (USA, Europe, Brazil) (Sample).sms
-Missile Defense 3-D (USA, Europe, Brazil).sms
+Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta).sms
+Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En).sms
+Missile Defense 3-D (USA, Europe, Brazil) (En) (Sample).sms
+Missile Defense 3-D (USA, Europe, Brazil) (En).sms
 Monica no Castelo do Dragao (Brazil).sms
 Monopoly (Europe) (Rev A).sms
 Monopoly (USA) (Beta).sms
 Monopoly (USA, Europe).sms
 Montezuma's Revenge - Featuring PANAMA JOE (USA) (Beta).sms
 Montezuma's Revenge - Featuring PANAMA JOE (USA).sms
-Mopiranger (Korea) (Unl).sms
-Mortal Kombat 3 (Brazil).sms
-Mortal Kombat (Europe, Brazil).sms
-Mortal Kombat II (Europe, Brazil).sms
-Ms. Pac-Man (Europe, Brazil).sms
-My Hero (USA, Europe, Brazil).sms
+Mopiranger (Korea) (En) (Unl).sms
+Mortal Kombat 3 (Brazil) (En).sms
+Mortal Kombat (Europe, Brazil) (En).sms
+Mortal Kombat II (Europe, Brazil) (En).sms
+Ms. Pac-Man (Europe, Brazil) (En).sms
+My Hero (USA, Europe, Brazil) (En).sms
 NBA Jam (Europe) (Proto).sms
 Nekkyuu Koushien (Japan).sms
-Nemesis 2 (Korea) (Unl).sms
+Nemesis 2 (Korea) (En) (Unl).sms
 Nemesis (Korea) (Unl).sms
-New Boggle Boggle 2 (Korea) (Unl).sms
+New Boggle Boggle 2 (Korea) (En) (Unl).sms
 NewZealand Story, The (Europe).sms
-Ninja Gaiden (Europe, Brazil) (Beta).sms
-Ninja Gaiden (Europe, Brazil).sms
+Ninja Gaiden (Europe, Brazil) (En) (Beta).sms
+Ninja Gaiden (Europe, Brazil) (En).sms
 Ninja (Japan).sms
-Ninja, The (USA, Europe, Brazil).sms
+Ninja, The (USA, Europe, Brazil) (En).sms
 Northen Ken (Taiwan) (Ja) (Unl).sms
 Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms
 Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).sms
 Opa Opa (Japan).sms
-Operation Wolf (Europe, Brazil).sms
+Operation Wolf (Europe, Brazil) (En).sms
 Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It).sms
-OutRun 3-D (Europe, Brazil) (Beta).sms
-OutRun 3-D (Europe, Brazil).sms
-OutRun Europa (Europe, Brazil).sms
+OutRun 3-D (Europe, Brazil) (En) (Beta).sms
+OutRun 3-D (Europe, Brazil) (En).sms
+OutRun Europa (Europe, Brazil) (En).sms
 OutRun (World).sms
 Pac-Mania (Europe).sms
 Paper Boy (Taiwan) (En) (Unl).sms
 Paperboy (Europe).sms
-Paperboy (USA, Brazil).sms
+Paperboy (USA, Brazil) (En).sms
 Parlour Games (USA, Europe).sms
 Pat Riley Basketball (USA) (Proto).sms
-Penguin Adventure (Korea) (Unl).sms
+Penguin Adventure (Korea) (En) (Unl).sms
 Penguin Land (USA, Europe).sms
 PGA Tour Golf (Europe).sms
-Phantasy Star (Brazil).sms
+Phantasy Star (Brazil) (En).sms
 Phantasy Star (Japan) (Virtual Console).sms
 Phantasy Star (Japan).sms
 Phantasy Star (Korea) (Unl).sms
@@ -388,148 +388,148 @@ Phantasy Star (USA, Europe) (Rev A).sms
 Phantasy Star (USA, Europe).sms
 Phantasy Star (World) (Ja) (Sega Ages).sms
 Phantasy Star (World) (Sega Ages).sms
-Pit-Fighter (Brazil).sms
+Pit-Fighter (Brazil) (En).sms
 Pit-Fighter (Europe).sms
-Pooyan (Korea) (Unl).sms
-Populous (Europe, Brazil).sms
-Poseidon Wars 3-D (USA, Europe, Brazil).sms
-Power Boggle Boggle (Korea) (Unl).sms
-Power Strike II (Europe, Brazil).sms
-Power Strike (USA, Europe, Brazil).sms
-Ppang Gongjang (Korea) (Unl).sms
-Predator 2 (Brazil).sms
+Pooyan (Korea) (En) (Unl).sms
+Populous (Europe, Brazil) (En).sms
+Poseidon Wars 3-D (USA, Europe, Brazil) (En).sms
+Power Boggle Boggle (Korea) (En) (Unl).sms
+Power Strike II (Europe, Brazil) (En).sms
+Power Strike (USA, Europe, Brazil) (En).sms
+Ppang Gongjang (Korea) (En) (Unl).sms
+Predator 2 (Brazil) (En).sms
 Predator 2 (Europe).sms
-Prince of Persia (Europe, Brazil).sms
+Prince of Persia (Europe, Brazil) (En).sms
 Prince of Persia (Taiwan) (En) (Unl).sms
-Pro Wrestling (USA, Europe, Brazil).sms
+Pro Wrestling (USA, Europe, Brazil) (En).sms
 Pro Yakyuu, The - Pennant Race (Japan).sms
 Promocao Especial M. System III Compact (Brazil) (Sample).sms
-Psychic World (Europe, Brazil).sms
-Psycho Fox (USA, Europe, Brazil).sms
-Putt & Putter (Europe, Brazil) (Beta).sms
-Putt & Putter (Europe, Brazil).sms
-Puzzle Game (Korea) (Unl).sms
+Psychic World (Europe, Brazil) (En).sms
+Psycho Fox (USA, Europe, Brazil) (En).sms
+Putt & Putter (Europe, Brazil) (En) (Beta).sms
+Putt & Putter (Europe, Brazil) (En).sms
+Puzzle Game (Korea) (En) (Unl).sms
 Quartet (Taiwan) (En) (Unl).sms
 Quartet (USA, Europe).sms
-Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil).sms
-Rainbow Islands (Brazil).sms
+Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil) (En).sms
+Rainbow Islands (Brazil) (En).sms
 Rainbow Islands (Europe).sms
 Rambo - First Blood Part II (USA).sms
-Rambo III (USA, Europe, Brazil).sms
-Rampage (USA, Europe, Brazil).sms
+Rambo III (USA, Europe, Brazil) (En).sms
+Rampage (USA, Europe, Brazil) (En).sms
 Rampart (Europe).sms
-Rastan (USA, Europe, Brazil) (Beta).sms
-Rastan (USA, Europe, Brazil).sms
-R.C. Grand Prix (USA, Europe, Brazil) (Beta).sms
-R.C. Grand Prix (USA, Europe, Brazil).sms
+Rastan (USA, Europe, Brazil) (En) (Beta).sms
+Rastan (USA, Europe, Brazil) (En).sms
+R.C. Grand Prix (USA, Europe, Brazil) (En) (Beta).sms
+R.C. Grand Prix (USA, Europe, Brazil) (En).sms
 Reggie Jackson Baseball (USA).sms
-Renegade (Europe, Brazil).sms
-Rescue Mission (USA, Europe, Brazil).sms
-Road Fighter (Korea) (Unl).sms
-Road Rash (Europe, Brazil).sms
-RoboCop 3 (Europe, Brazil).sms
-RoboCop versus The Terminator (Europe, Brazil).sms
+Renegade (Europe, Brazil) (En).sms
+Rescue Mission (USA, Europe, Brazil) (En).sms
+Road Fighter (Korea) (En) (Unl).sms
+Road Rash (Europe, Brazil) (En).sms
+RoboCop 3 (Europe, Brazil) (En).sms
+RoboCop versus The Terminator (Europe, Brazil) (En).sms
 Rocky (World).sms
 R-Type (Taiwan) (En) (Unl).sms
 R-Type (World) (Beta).sms
 R-Type (World).sms
-Running Battle (Europe, Brazil).sms
-Sagaia (Europe, Brazil).sms
-Sagak-ui Bimil (Korea) (Unl).sms
+Running Battle (Europe, Brazil) (En).sms
+Sagaia (Europe, Brazil) (En).sms
+Sagak-ui Bimil (Korea) (En) (Unl).sms
 Samgukji 3 (Korea) (Unl).sms
 Sapo Xule - O Mestre do Kung Fu (Brazil).sms
-Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal).sms
+Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal) (Pt).sms
 Sapo Xule vs. Os Invasores do Brejo (Brazil).sms
 Satellite 7 (Japan).sms
 Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).sms
 Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).sms
-Scramble Spirits (Europe, Brazil).sms
+Scramble Spirits (Europe, Brazil) (En).sms
 Scramble Spirits (Taiwan) (En) (Unl).sms
 SDI (Japan).sms
 Secret Command (Europe).sms
-Sega Chess (Europe, Brazil).sms
+Sega Chess (Europe, Brazil) (En).sms
 Sega Graphic Board (USA) (v2.0) (Proto).sms
-Sega World Tournament Golf (Europe, Brazil).sms
+Sega World Tournament Golf (Europe, Brazil) (En).sms
 Seishun Scandal (Japan).sms
 Sensible Soccer (Europe).sms
-Shadow Dancer - The Secret of Shinobi (Europe, Brazil).sms
+Shadow Dancer - The Secret of Shinobi (Europe, Brazil) (En).sms
 Shadow Dancer (Taiwan) (En) (Unl).sms
-Shadow of the Beast (Europe, Brazil).sms
+Shadow of the Beast (Europe, Brazil) (En).sms
 Shadow of the Beast (Taiwan) (En) (Unl).sms
 Shanghai (USA, Europe) (Beta).sms
 Shanghai (USA, Europe).sms
 Shangwei Mingling (Taiwan) (En) (Unl).sms
-Shinobi (Japan, Brazil).sms
-Shinobi (USA, Europe, Brazil) (Rev 1).sms
-Shooting Gallery (USA, Europe, Brazil).sms
-Simpsons, The - Bart vs. The Space Mutants (Europe, Brazil).sms
-Simpsons, The - Bart vs. The World (Europe, Brazil).sms
+Shinobi (Japan, Brazil) (Ja).sms
+Shinobi (USA, Europe, Brazil) (En) (Rev 1).sms
+Shooting Gallery (USA, Europe, Brazil) (En).sms
+Simpsons, The - Bart vs. The Space Mutants (Europe, Brazil) (En).sms
+Simpsons, The - Bart vs. The World (Europe, Brazil) (En).sms
 Sitio do Picapau Amarelo (Brazil).sms
-Sky Fighter (Korea) (Unl).sms
+Sky Fighter (Korea) (En) (Unl).sms
 Sky Jaguar (Korea) (Clover) (Unl).sms
 Sky Jaguar (Korea) (Unl).sms
 Slap Shoot (USA) (Beta).sms
 Slap Shot (Europe) (Sample).sms
 Slap Shot (Europe).sms
-Slap Shot (USA, Europe, Brazil).sms
+Slap Shot (USA, Europe, Brazil) (En).sms
 Smurfs, The (Europe, Brazil) (En,Fr,De,Es).sms
 Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta).sms
 Solomon no Kagi - Oujo Rihita no Namida (Japan).sms
-Sonic Blast (Brazil).sms
-Sonic Chaos (Europe, Brazil) (Beta) (1993-06-30).sms
-Sonic Chaos (Europe, Brazil) (Beta) (1993-07-13).sms
-Sonic Chaos (Europe, Brazil).sms
-Sonic Spinball (Europe, Brazil).sms
-Sonic The Hedgehog 2 (Europe, Brazil) (Rev 1).sms
-Sonic The Hedgehog 2 (Europe, Brazil).sms
-Sonic The Hedgehog (USA, Europe, Brazil).sms
+Sonic Blast (Brazil) (En).sms
+Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-06-30).sms
+Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-07-13).sms
+Sonic Chaos (Europe, Brazil) (En).sms
+Sonic Spinball (Europe, Brazil) (En).sms
+Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1).sms
+Sonic The Hedgehog 2 (Europe, Brazil) (En).sms
+Sonic The Hedgehog (USA, Europe, Brazil) (En).sms
 Sonic's Edusoft (Unknown) (Proto).sms
 Space Gun (Europe).sms
 Space Harrier 3D (Japan).sms
-Space Harrier 3-D (USA, Europe, Brazil).sms
+Space Harrier 3-D (USA, Europe, Brazil) (En).sms
 Space Harrier (Europe).sms
-Space Harrier (Japan, USA).sms
+Space Harrier (Japan, USA) (Ja).sms
 Special Criminal Investigation (Europe) (Beta).sms
 Special Criminal Investigation (Europe).sms
 Speedball 2 (Europe).sms
 Speedball (Europe) (Rev 1).sms
 Speedball (Europe).sms
-SpellCaster (USA, Europe, Brazil).sms
-Spider-Man - Return of the Sinister Six (Europe, Brazil).sms
-Spider-Man (USA, Europe, Brazil).sms
+SpellCaster (USA, Europe, Brazil) (En).sms
+Spider-Man - Return of the Sinister Six (Europe, Brazil) (En).sms
+Spider-Man (USA, Europe, Brazil) (En).sms
 Sports Pad Football (USA).sms
 Sports Pad Soccer (Japan).sms
 Spy vs Spy (Japan).sms
 Spy vs Spy (Taiwan) (Unl).sms
-Spy vs Spy (USA, Europe, Brazil).sms
-Star Wars (Europe, Brazil).sms
-Street Fighter II' (Brazil).sms
+Spy vs Spy (USA, Europe, Brazil) (En).sms
+Star Wars (Europe, Brazil) (En).sms
+Street Fighter II' (Brazil) (En).sms
 Street Master (Korea) (Unl).sms
-Streets of Rage (Europe, Brazil).sms
-Streets of Rage II (Europe, Brazil).sms
-Strider II (Europe, Brazil).sms
+Streets of Rage (Europe, Brazil) (En).sms
+Streets of Rage II (Europe, Brazil) (En).sms
+Strider II (Europe, Brazil) (En).sms
 Strider, The (Taiwan) (En) (Unl).sms
-Strider (USA, Europe, Brazil) (Demo).sms
-Strider (USA, Europe, Brazil).sms
-Submarine Attack (Europe, Brazil).sms
+Strider (USA, Europe, Brazil) (En) (Demo).sms
+Strider (USA, Europe, Brazil) (En).sms
+Submarine Attack (Europe, Brazil) (En).sms
 Submarine Attack (Taiwan) (En) (Unl).sms
 Suho Jeonsa (Korea) (Unl).sms
 Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).sms
-Summer Games (Europe, Brazil) (Beta).sms
-Summer Games (Europe, Brazil).sms
+Summer Games (Europe, Brazil) (En) (Beta).sms
+Summer Games (Europe, Brazil) (En).sms
 Super Arkanoid (Korea) (Unl).sms
 Super Basketball (USA) (Demo).sms
 Super Bioman I (Korea) (Unl).sms
 Super Boy 4 (Korea) (Unl).sms
-Super Boy I (Korea) (Unl).sms
-Super Boy II (Korea) (Unl).sms
-Super Boy III (Korea) (Unl).sms
-Super Bubble Bobble (Korea) (Unl).sms
+Super Boy I (Korea) (En) (Unl).sms
+Super Boy II (Korea) (En) (Unl).sms
+Super Boy III (Korea) (En) (Unl).sms
+Super Bubble Bobble (Korea) (En) (Unl).sms
 Super Columns & Tetris (Korea) (Unl).sms
 Super Golf (Europe) (Beta).sms
 Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms
-Super Monaco GP (Europe, Brazil) (Beta).sms
-Super Monaco GP (Europe, Brazil).sms
+Super Monaco GP (Europe, Brazil) (En) (Beta).sms
+Super Monaco GP (Europe, Brazil) (En).sms
 Super Monaco GP (USA) (Beta).sms
 Super Monaco GP (USA).sms
 Super Off Road (Europe) (Beta).sms
@@ -540,84 +540,84 @@ Super Space Invaders (Europe).sms
 Super Tennis (USA, Europe).sms
 Super Tetris (Korea) (Unl).sms
 Super Wonder Boy - Monster World (Japan).sms
-Superman - The Man of Steel (Europe, Brazil).sms
+Superman - The Man of Steel (Europe, Brazil) (En).sms
 T2 - The Arcade Game (Europe).sms
 Taito Chase H.Q. (Europe) (Beta).sms
 Taito Chase H.Q. (Europe).sms
-Taz in Escape from Mars (Brazil).sms
-Taz-Mania (Europe, Brazil) (Beta).sms
-Taz-Mania (Europe, Brazil).sms
+Taz in Escape from Mars (Brazil) (En).sms
+Taz-Mania (Europe, Brazil) (En) (Beta).sms
+Taz-Mania (Europe, Brazil) (En).sms
 Tecmo World Cup '92 (Europe) (Beta).sms
 Tecmo World Cup '93 (Europe).sms
 Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).sms
 Teddy Boy Blues (Japan).sms
-Teddy Boy (USA, Europe, Brazil).sms
-Tennis Ace (Europe, Brazil).sms
+Teddy Boy (USA, Europe, Brazil) (En).sms
+Tennis Ace (Europe, Brazil) (En).sms
 Tensai Bakabon (Japan).sms
 Terminator 2 - Judgment Day (Europe).sms
-Terminator, The (Brazil).sms
+Terminator, The (Brazil) (En).sms
 Terminator, The (Europe).sms
 Three Dragon Story, The (Korea) (Unl).sms
 Thunder Blade (Japan).sms
 Thunder Blade (Taiwan) (En) (Unl).sms
-Thunder Blade (USA, Europe, Brazil) (Beta).sms
-Thunder Blade (USA, Europe, Brazil).sms
-Time Soldiers (USA, Europe, Brazil).sms
-Tom & Jerry (Europe, Brazil) (Beta).sms
-Tom and Jerry - The Movie (Europe, Brazil).sms
+Thunder Blade (USA, Europe, Brazil) (En) (Beta).sms
+Thunder Blade (USA, Europe, Brazil) (En).sms
+Time Soldiers (USA, Europe, Brazil) (En).sms
+Tom & Jerry (Europe, Brazil) (En) (Beta).sms
+Tom and Jerry - The Movie (Europe, Brazil) (En).sms
 Toto World 3 (Korea) (Unl).sms
-TransBot (USA, Europe, Brazil) (Beta).sms
-TransBot (USA, Europe, Brazil).sms
+TransBot (USA, Europe, Brazil) (En) (Beta).sms
+TransBot (USA, Europe, Brazil) (En).sms
 Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).sms
-Ttoriui Moheom (Korea) (Unl).sms
+Ttoriui Moheom (Korea) (En) (Unl).sms
 Turma da Monica em O Resgate (Brazil).sms
-Ultima IV - Quest of the Avatar (Europe, Brazil) (Beta).sms
-Ultima IV - Quest of the Avatar (Europe, Brazil).sms
+Ultima IV - Quest of the Avatar (Europe, Brazil) (En) (Beta).sms
+Ultima IV - Quest of the Avatar (Europe, Brazil) (En).sms
 Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,It).sms
 Vampire (Europe) (Beta).sms
-Vigilante (USA, Europe, Brazil).sms
-Virtua Fighter Animation (Brazil).sms
+Vigilante (USA, Europe, Brazil) (En).sms
+Virtua Fighter Animation (Brazil) (En).sms
 Walter Payton Football (USA).sms
-Wanted (USA, Europe, Brazil).sms
-Where in the World is Carmen Sandiego (Brazil).sms
+Wanted (USA, Europe, Brazil) (En).sms
+Where in the World is Carmen Sandiego (Brazil) (En).sms
 Where in the World is Carmen Sandiego (USA).sms
 Wimbledon (Europe).sms
-Wimbledon II (Europe, Brazil).sms
+Wimbledon II (Europe, Brazil) (En).sms
 Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).sms
 Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).sms
-Wolfchild (Europe, Brazil).sms
+Wolfchild (Europe, Brazil) (En).sms
 Wonder Boy III - The Dragon's Trap (USA, Europe) (Aftermarket) (Unl).sms
 Wonder Boy III - The Dragon's Trap (USA, Europe).sms
 Wonder Boy in Monster Land (USA, Europe) (Beta).sms
 Wonder Boy in Monster Land (USA, Europe).sms
 Wonder Boy in Monster World (Europe) (Beta).sms
 Wonder Boy in Monster World (Europe).sms
-Wonder Boy (Japan, Europe).sms
-Wonder Boy (USA, Europe, Brazil) (Rev 1).sms
+Wonder Boy (Japan, Europe) (En).sms
+Wonder Boy (USA, Europe, Brazil) (En) (Rev 1).sms
 Wonsiin (Korea) (Unl).sms
 Woody Pop - Shinjinrui no Block Kuzushi (Japan).sms
-World Class Leaderboard (Europe, Brazil).sms
-World Cup Italia '90 (Europe, Brazil).sms
+World Class Leaderboard (Europe, Brazil) (En).sms
+World Cup Italia '90 (Europe, Brazil) (En).sms
 World Cup Italia '90 (USA) (Demo).sms
 World Cup USA 94 (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms
-World Games (Europe, Brazil) (Beta).sms
-World Games (Europe, Brazil).sms
+World Games (Europe, Brazil) (En) (Beta).sms
+World Games (Europe, Brazil) (En).sms
 World Grand Prix (Europe).sms
-World Grand Prix (USA, Brazil) (Beta).sms
-World Grand Prix (USA, Brazil).sms
+World Grand Prix (USA, Brazil) (En) (Beta).sms
+World Grand Prix (USA, Brazil) (En).sms
 World Soccer (World).sms
-WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil).sms
+WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil) (En).sms
 Xenon 2 - Megablast (Europe) (Rev 1).sms
 Xenon 2 - Megablast (Europe).sms
-X-Men - Mojo World (Brazil).sms
-Xyzolog (Korea) (Unl).sms
-Ys - The Vanished Omens (USA, Europe, Brazil).sms
+X-Men - Mojo World (Brazil) (En).sms
+Xyzolog (Korea) (En) (Unl).sms
+Ys - The Vanished Omens (USA, Europe, Brazil) (En).sms
 Ys - The Vanished Omens (USA, Europe) (Ja) (Demo).sms
 Ys (Japan).sms
 Yuyryeong-ui Jip (Korea) (Unl).sms
 Zaxxon 3-D (World) (Beta).sms
 Zaxxon 3-D (World).sms
-Zillion (Europe, Brazil) (Rev 2).sms
+Zillion (Europe, Brazil) (En) (Rev 2).sms
 Zillion II - The Tri Formation (World) (Beta).sms
 Zillion II - The Tri Formation (World).sms
 Zillion (Japan, Europe) (En,Ja).sms
