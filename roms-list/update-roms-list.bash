@@ -35,8 +35,7 @@ then
 fi
 
 # Create file with list of ROMs.
-# TODO: use find
-ls -1 -- "$ROMS_DIR" | LC_ALL=C sort --dictionary-order --ignore-case > "$ROMS_LIST_FILE" || exit
+find "$ROMS_DIR" -maxdepth 1 -type f -printf '%f\n' | LC_ALL=C sort --dictionary-order --ignore-case > "$ROMS_LIST_FILE" || exit
 
 printf 'git diff %q\n' "$ROMS_LIST_FILE"
 printf 'git commit -m "Update %s" %q\n' "$ROMS_LIST_VERSION" "$ROMS_LIST_FILE"
