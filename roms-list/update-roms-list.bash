@@ -14,14 +14,14 @@ ROMS_DIR="$1"
 if [[ -z "$ROMS_DIR" ]]
 then
 	printf 'Error: Must give path to ROMs directory\n' 1>&2
-	printf 'Usage: %q ROMS_DIR\n' "$SCRIPT_NAME" 1>&2
+	printf 'Usage: bash %q ROMS_DIR\n' "$SCRIPT_NAME" 1>&2
 	exit 1
 fi
 
 if [[ ! -d "$ROMS_DIR" ]]
 then
 	printf 'Error: ROMs directory not found: %q\n' "$ROMS_DIR" 1>&2
-	printf 'Usage: %q ROMS_DIR\n' "$SCRIPT_NAME" 1>&2
+	printf 'Usage: bash %q ROMS_DIR\n' "$SCRIPT_NAME" 1>&2
 	exit 1
 fi
 
