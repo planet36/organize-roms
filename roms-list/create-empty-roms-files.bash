@@ -29,4 +29,6 @@ ROMS_DIR_TEMPLATE="ROMs.$(basename -- "$ROMS_LIST_FILE").XXXXXXXXXXX"
 
 cd -- "$(mktemp --directory --tmpdir=. -t "$ROMS_DIR_TEMPLATE")" || exit
 
-xargs --arg-file="$ROMS_LIST_FILE" --delimiter='\n' --max-lines=1 -- touch
+ROMS_LIST_FILE_REALPATH="$(realpath -- "$ROMS_LIST_FILE")"
+
+xargs --arg-file="$ROMS_LIST_FILE_REALPATH" --delimiter='\n' --max-lines=1 -- touch
