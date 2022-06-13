@@ -3,6 +3,8 @@
 
 # pylint: disable=missing-module-docstring
 
+# Run this from within the ROMs directory.
+
 import fnmatch
 import os
 import re
