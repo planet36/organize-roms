@@ -60,6 +60,7 @@ glob_patterns_territory = (
 		'*(China*',
 		'*(Netherlands*',
 		'*(Unknown*',
+		'*(Portugal*',
 		)
 
 roms = set()
