@@ -6,6 +6,26 @@ Usage: python3 roms-distribution.py ROMS_DIR...
 
 For each ROMS_DIR, print the distribution of the first alpha-numeric character of the filenames.
 The results are used to determine an optimal subdirectory structure into which ROMs could be split.
+
+Examples:
+python3 roms-distribution.py \
+roms-list/ROMs.Nintendo-Game-Boy-Color.* \
+roms-list/ROMs.Nintendo-Game-Boy.* \
+roms-list/ROMs.Nintendo-Nintendo-Entertainment-System-unheadered.* \
+roms-list/ROMs.Nintendo-Super-Nintendo-Entertainment-System.* \
+roms-list/ROMs.Sega-32X.* \
+roms-list/ROMs.Sega-Game-Gear.* \
+roms-list/ROMs.Sega-Master-System-Mark-III.* \
+roms-list/ROMs.Sega-Mega-Drive-Genesis.*
+
+python3 roms-distribution.py \
+<base-path-to-roms>/'Nintendo - Game Boy Color/Nintendo - Game Boy Color '* \
+<base-path-to-roms>/'Nintendo - Game Boy/Nintendo - Game Boy '* \
+<base-path-to-roms>/'Nintendo - NES/Nintendo - Nintendo Entertainment System '* \
+<base-path-to-roms>/'Sega - 32X/Sega - 32X '* \
+<base-path-to-roms>/'Sega - Game Gear/Sega - Game Gear '* \
+<base-path-to-roms>/'Sega - Master System - Mark III/Sega - Master System - Mark III '* \
+<base-path-to-roms>/'Sega - Mega Drive - Genesis/Sega - Mega Drive - Genesis '*
 '''
 
 from shlex import quote
