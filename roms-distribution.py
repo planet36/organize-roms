@@ -22,6 +22,7 @@ python3 roms-distribution.py \
 <base-path-to-roms>/'Nintendo - Game Boy Color/Nintendo - Game Boy Color '* \
 <base-path-to-roms>/'Nintendo - Game Boy/Nintendo - Game Boy '* \
 <base-path-to-roms>/'Nintendo - NES/Nintendo - Nintendo Entertainment System '* \
+<base-path-to-roms>/'Nintendo - SNES/Nintendo - Super Nintendo Entertainment System '* \
 <base-path-to-roms>/'Sega - 32X/Sega - 32X '* \
 <base-path-to-roms>/'Sega - Game Gear/Sega - Game Gear '* \
 <base-path-to-roms>/'Sega - Master System - Mark III/Sega - Master System - Mark III '* \
@@ -34,7 +35,7 @@ from pathlib import Path
 import sys
 
 __author__ = 'Steven Ward'
-__version__ = '2022-04-28'
+__version__ = '2022-10-03'
 
 def get_first_alnum(s: str):
 	'''Find the first alpha-numeric character in the string.'''

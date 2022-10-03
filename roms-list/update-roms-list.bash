@@ -6,6 +6,7 @@
 # bash update-roms-list.bash <base-path-to-roms>/'Nintendo - Game Boy Color/Nintendo - Game Boy Color '*
 # bash update-roms-list.bash <base-path-to-roms>/'Nintendo - Game Boy/Nintendo - Game Boy '*
 # bash update-roms-list.bash <base-path-to-roms>/'Nintendo - NES/Nintendo - Nintendo Entertainment System '*
+# bash update-roms-list.bash <base-path-to-roms>/'Nintendo - SNES/Nintendo - Super Nintendo Entertainment System '*
 # bash update-roms-list.bash <base-path-to-roms>/'Sega - 32X/Sega - 32X '*
 # bash update-roms-list.bash <base-path-to-roms>/'Sega - Game Gear/Sega - Game Gear '*
 # bash update-roms-list.bash <base-path-to-roms>/'Sega - Master System - Mark III/Sega - Master System - Mark III '*
