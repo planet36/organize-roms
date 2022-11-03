@@ -174,6 +174,9 @@ if roms_to_delete: # not empty
 	'''
 	roms_to_delete = set()
 
+print()
+print('rename -v -o -- .bin .md *.bin')
+
 dir_name_to_glob_pattern = {
 		quote('_BIOS') : quote(r'\[BIOS\]*.' + rom_ext),
 		quote('0-9'  ) : quote(r'[0-9]*.'    + rom_ext),
