@@ -1,0 +1,6 @@
+
+# Run this command in the target directory.
+
+#ls -1 | grep -o -E '\(.+\)' | sort -i -u
+#ls -1 | perl -ne 'print if s/^[^(]*(\([^)]*?\)).*$/\1/' | sort -i -u
+find . -type f | perl -ne 'print if s/^[^(]*(\([^)]*?\)).*$/\1/' | sort -i -u
