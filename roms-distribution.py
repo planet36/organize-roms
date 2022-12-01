@@ -32,14 +32,14 @@ python3 roms-distribution.py \
 <base-path-to-roms>/'Sega - Mega Drive - Genesis/Sega - Mega Drive - Genesis '*
 '''
 
+__author__ = 'Steven Ward'
+__version__ = '2022-10-03'
+__license__ = 'OSL-3.0'
+
 from shlex import quote
 from collections import OrderedDict
 from pathlib import Path
 import sys
-
-__author__ = 'Steven Ward'
-__version__ = '2022-10-03'
-__license__ = 'OSL-3.0'
 
 def get_first_alnum(s: str):
 	'''Find the first alpha-numeric character in the string.'''
