@@ -39,6 +39,7 @@ import sys
 
 __author__ = 'Steven Ward'
 __version__ = '2022-10-03'
+__license__ = 'OSL-3.0'
 
 def get_first_alnum(s: str):
 	'''Find the first alpha-numeric character in the string.'''

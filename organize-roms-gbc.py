@@ -15,6 +15,7 @@ from shlex import quote
 
 __author__ = 'Steven Ward'
 __version__ = '2021-12-03'
+__license__ = 'OSL-3.0'
 
 # Hopefully no ROM begins with "EOT"
 rm_cmd = "cat <<EOT | xargs --no-run-if-empty --delimiter='\\n' --verbose -- rm --verbose || exit"
