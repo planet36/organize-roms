@@ -1,7 +1,10 @@
 # SPDX-FileCopyrightText: Steven Ward
 # SPDX-License-Identifier: OSL-3.0
 
+# pylint: disable=bad-indentation
+# pylint: disable=invalid-name
 # pylint: disable=missing-module-docstring
+# pylint: disable=pointless-string-statement
 
 # Run this from within the ROMs directory.
 

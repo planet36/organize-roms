@@ -1,6 +1,9 @@
 # SPDX-FileCopyrightText: Steven Ward
 # SPDX-License-Identifier: OSL-3.0
 
+# pylint: disable=bad-indentation
+# pylint: disable=invalid-name
+
 '''
 Usage: python3 roms-distribution.py ROMS_DIR...
 
