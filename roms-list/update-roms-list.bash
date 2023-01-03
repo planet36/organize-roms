@@ -34,7 +34,7 @@ then
 	exit 1
 fi
 
-ROMS_LIST_FILE="$(basename -- "$ROMS_DIR" | tr -d '()[]' | tr ' ' '-' | sed -E -e 's/-+/-/g' -e 's/-[0-9]{8}-[0-9]{6}//g')"
+ROMS_LIST_FILE="$(basename -- "$ROMS_DIR" | tr -d '()[]' | tr ' ' '-' | sed -E -e 's/-+/-/g' -e 's/-[0-9]{8}-[0-9]{6}//g' -e 's/-MIA-[0-9]+$//')"
 ROMS_LIST_VERSION="$(basename -- "$ROMS_DIR" | sed -E -e 's/.+\(([0-9]{8}-[0-9]{6})\).*/\1/')"
 
 if [[ -f "$ROMS_LIST_FILE" ]]
