@@ -9,7 +9,7 @@
 # Run this from within the ROMs directory.
 
 __author__ = 'Steven Ward'
-__version__ = '2021-12-03'
+__version__ = '2023-03-18'
 __license__ = 'OSL-3.0'
 
 import fnmatch
@@ -22,7 +22,7 @@ rm_cmd = "cat <<EOT | xargs --no-run-if-empty --delimiter='\\n' --verbose -- rm 
 
 shebang = '#!/usr/bin/sh'
 
-rom_ext = 'unh'
+rom_ext = 'nes'
 
 glob_patterns_dev_status = (
 		# keep
@@ -208,12 +208,13 @@ dir_name_to_glob_pattern = {
 
 '''
 Regex needed for ROMs such as:
-'89 Dennou Kyuusei Uranai (Japan).unh
-M.C. Kids (USA).unh
-M.U.L.E. (USA).unh
-M.U.S.C.L.E. - Tag Team Match (USA).unh
-S.C.A.T. - Special Cybernetic Attack Team (USA).unh
-S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console).unh
+'89 Dennou Kyuusei Uranai (Japan).nes
+M.C. Kids (USA).nes
+M.U.L.E. (USA).nes
+M.U.S.C.L.E. - Tag Team Match (USA).nes
+S.C.A.T. - Special Cybernetic Attack Team (USA).nes
+S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console).nes
+S.T.I.N.G. (World) (Aftermarket) (Homebrew).nes
 '''
 dir_name_to_regex_pattern = {
 		quote('_BIOS') : quote(r'\./[^[:alnum:]]*\[BIOS\].*\.'            + rom_ext),
@@ -257,5 +258,10 @@ print('''
 if [ -f 'Kid Dracula (World) (Castlevania Anniversary Collection).sav' ]
 then
 mv --verbose --target-directory='K-L' 'Kid Dracula (World) (Castlevania Anniversary Collection).sav' || exit
+fi
+
+if [ -f 'M8 Game Selectable Working Product Display (USA) (Rev B).nes' ]
+then
+mv --verbose --target-directory='Ma-Me' 'M8 Game Selectable Working Product Display (USA) (Rev B).nes' || exit
 fi
 ''')
