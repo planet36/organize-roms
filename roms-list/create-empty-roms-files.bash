@@ -22,16 +22,16 @@ ROMS_LIST_FILE="$1"
 
 if [[ -z "$ROMS_LIST_FILE" ]]
 then
-	printf 'Error: Must give file with names of ROMs\n' 1>&2
-	printf 'Usage: bash %q ROMS_LIST_FILE\n' "$SCRIPT_NAME" 1>&2
-	exit 1
+    printf 'Error: Must give file with names of ROMs\n' 1>&2
+    printf 'Usage: bash %q ROMS_LIST_FILE\n' "$SCRIPT_NAME" 1>&2
+    exit 1
 fi
 
 if [[ ! -f "$ROMS_LIST_FILE" ]]
 then
-	printf 'Error: ROMs file not found: %q\n' "$ROMS_LIST_FILE" 1>&2
-	printf 'Usage: bash %q ROMS_LIST_FILE\n' "$SCRIPT_NAME" 1>&2
-	exit 1
+    printf 'Error: ROMs file not found: %q\n' "$ROMS_LIST_FILE" 1>&2
+    printf 'Usage: bash %q ROMS_LIST_FILE\n' "$SCRIPT_NAME" 1>&2
+    exit 1
 fi
 
 ROMS_DIR_TEMPLATE="ROMs.$(basename -- "$ROMS_LIST_FILE").XXXXXXXXXXX"

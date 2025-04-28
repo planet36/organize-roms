@@ -25,49 +25,49 @@ shebang = '#!/usr/bin/sh'
 rom_ext = 'sms'
 
 glob_patterns_dev_status = (
-		# keep
-		#'*(Aftermarket*',
-		#'*(Alt*',
-		#'*(Unl*',
-		'*(Beta*',
-		'*(Demo*',
-		'*(Pirate*',
-		'*(Prerelease*',
-		'*(Preview*',
-		'*(Proto*',
-		'*(Putative Beta*',
-		'*(Sample*',
-		'*(Sega Channel*',
-		'*(Tech Demo*',
-		'*(Test Program*',
-		)
+        # keep
+        #'*(Aftermarket*',
+        #'*(Alt*',
+        #'*(Unl*',
+        '*(Beta*',
+        '*(Demo*',
+        '*(Pirate*',
+        '*(Prerelease*',
+        '*(Preview*',
+        '*(Proto*',
+        '*(Putative Beta*',
+        '*(Sample*',
+        '*(Sega Channel*',
+        '*(Tech Demo*',
+        '*(Test Program*',
+        )
 
 glob_patterns_territory = (
-		# keep
-		#'*(Europe*',
-		#'*(Japan*',
-		#'*(USA*',
-		'*(Argentina*',
-		'*(Asia*',
-		'*(Australia*',
-		'*(Brazil*',
-		'*(Canada*',
-		'*(China*',
-		'*(France*',
-		'*(Germany*',
-		'*(Hong Kong*',
-		'*(Italy*',
-		'*(Korea*',
-		'*(Mexico*',
-		'*(Netherlands*',
-		'*(Portugal*',
-		'*(Russia*',
-		'*(Spain*',
-		'*(Sweden*',
-		'*(Taiwan*',
-		'*(United Kingdom*',
-		'*(Unknown*',
-		)
+        # keep
+        #'*(Europe*',
+        #'*(Japan*',
+        #'*(USA*',
+        '*(Argentina*',
+        '*(Asia*',
+        '*(Australia*',
+        '*(Brazil*',
+        '*(Canada*',
+        '*(China*',
+        '*(France*',
+        '*(Germany*',
+        '*(Hong Kong*',
+        '*(Italy*',
+        '*(Korea*',
+        '*(Mexico*',
+        '*(Netherlands*',
+        '*(Portugal*',
+        '*(Russia*',
+        '*(Spain*',
+        '*(Sweden*',
+        '*(Taiwan*',
+        '*(United Kingdom*',
+        '*(Unknown*',
+        )
 
 roms = set()
 roms_to_delete = set()
@@ -75,27 +75,27 @@ roms_to_delete = set()
 path = '.'
 
 with os.scandir(path) as it:
-	for entry in it:
-		if entry.is_file(follow_symlinks=False):
-			roms.add(entry.name)
+    for entry in it:
+        if entry.is_file(follow_symlinks=False):
+            roms.add(entry.name)
 
 print(shebang)
 
 # Remove ROMs (phase 1)
 
 for glob_pattern in glob_patterns_dev_status:
-	roms_to_delete.update(fnmatch.filter(roms, glob_pattern))
+    roms_to_delete.update(fnmatch.filter(roms, glob_pattern))
 
 roms.difference_update(roms_to_delete)
 
 if roms_to_delete: # not empty
-	comment = '# ROMs matching glob patterns of development status'
-	print()
-	print(comment)
-	print(rm_cmd)
-	print('\n'.join(sorted(roms_to_delete)))
-	print('EOT')
-	roms_to_delete = set()
+    comment = '# ROMs matching glob patterns of development status'
+    print()
+    print(comment)
+    print(rm_cmd)
+    print('\n'.join(sorted(roms_to_delete)))
+    print('EOT')
+    roms_to_delete = set()
 
 # Keep all BIOS files after phase 1.
 roms.difference_update(fnmatch.filter(roms, '*BIOS*'))
@@ -103,53 +103,53 @@ roms.difference_update(fnmatch.filter(roms, '*BIOS*'))
 # Remove ROMs (phase 2)
 
 for glob_pattern in glob_patterns_territory:
-	roms_to_delete.update(fnmatch.filter(roms, glob_pattern))
+    roms_to_delete.update(fnmatch.filter(roms, glob_pattern))
 
 roms.difference_update(roms_to_delete)
 
 if roms_to_delete: # not empty
-	comment = '# ROMs matching glob patterns of territory'
-	print()
-	print(comment)
-	print(rm_cmd)
-	print('\n'.join(sorted(roms_to_delete)))
-	print('EOT')
-	roms_to_delete = set()
+    comment = '# ROMs matching glob patterns of territory'
+    print()
+    print(comment)
+    print(rm_cmd)
+    print('\n'.join(sorted(roms_to_delete)))
+    print('EOT')
+    roms_to_delete = set()
 
 # Remove ROMs (phase 3)
 
 usa_roms = set(
-		fnmatch.filter(roms, '*(USA*') +
-		fnmatch.filter(roms, '*, USA*'))
+        fnmatch.filter(roms, '*(USA*') +
+        fnmatch.filter(roms, '*, USA*'))
 non_usa_roms = roms.difference(usa_roms)
 
 usa_rom_base_pattern = r'(.+)\([^)]*\bUSA\b[^(]*\)'
 
 # Remove Europe, Japan ROMs when a USA version exists.
 for usa_rom in usa_roms:
-	match = re.match(usa_rom_base_pattern, usa_rom)
-	rom_base = match.group(1)
-	glob_pattern_europe = rom_base + '(Europe*'
-	glob_pattern_japan = rom_base + '(Japan*'
-	roms_to_delete.update(fnmatch.filter(non_usa_roms, glob_pattern_europe))
-	roms_to_delete.update(fnmatch.filter(non_usa_roms, glob_pattern_japan))
+    match = re.match(usa_rom_base_pattern, usa_rom)
+    rom_base = match.group(1)
+    glob_pattern_europe = rom_base + '(Europe*'
+    glob_pattern_japan = rom_base + '(Japan*'
+    roms_to_delete.update(fnmatch.filter(non_usa_roms, glob_pattern_europe))
+    roms_to_delete.update(fnmatch.filter(non_usa_roms, glob_pattern_japan))
 
 roms.difference_update(roms_to_delete)
 
 if roms_to_delete: # not empty
-	comment = '# Europe, Japan ROMs with an equivalent USA version'
-	print()
-	print(comment)
-	print(rm_cmd)
-	print('\n'.join(sorted(roms_to_delete)))
-	print('EOT')
-	roms_to_delete = set()
+    comment = '# Europe, Japan ROMs with an equivalent USA version'
+    print()
+    print(comment)
+    print(rm_cmd)
+    print('\n'.join(sorted(roms_to_delete)))
+    print('EOT')
+    roms_to_delete = set()
 
 # Remove ROMs (phase 4)
 
 europe_roms = set(
-		fnmatch.filter(roms, '*(Europe*') +
-		fnmatch.filter(roms, '*, Europe*'))
+        fnmatch.filter(roms, '*(Europe*') +
+        fnmatch.filter(roms, '*, Europe*'))
 non_europe_roms = roms.difference(europe_roms)
 
 # Do not consider USA ROMs
@@ -160,42 +160,42 @@ europe_rom_base_pattern = r'(.+)\([^)]*\bEurope\b[^(]*\)'
 
 # Remove Japan ROMs when a Europe version exists.
 for europe_rom in europe_roms:
-	match = re.match(europe_rom_base_pattern, europe_rom)
-	rom_base = match.group(1)
-	glob_pattern_japan = rom_base + '(Japan*'
-	roms_to_delete.update(fnmatch.filter(non_europe_roms, glob_pattern_japan))
+    match = re.match(europe_rom_base_pattern, europe_rom)
+    rom_base = match.group(1)
+    glob_pattern_japan = rom_base + '(Japan*'
+    roms_to_delete.update(fnmatch.filter(non_europe_roms, glob_pattern_japan))
 
 roms.difference_update(roms_to_delete)
 
 if roms_to_delete: # not empty
-	# We may want to keep the Japan ROMs because they're NTSC rather than PAL.
-	'''
-	comment = '# Japan ROMs with an equivalent Europe version'
-	print()
-	print(comment)
-	print(rm_cmd)
-	print('\n'.join(sorted(roms_to_delete)))
-	print('EOT')
-	'''
-	roms_to_delete = set()
+    # We may want to keep the Japan ROMs because they're NTSC rather than PAL.
+    '''
+    comment = '# Japan ROMs with an equivalent Europe version'
+    print()
+    print(comment)
+    print(rm_cmd)
+    print('\n'.join(sorted(roms_to_delete)))
+    print('EOT')
+    '''
+    roms_to_delete = set()
 
 dir_name_to_glob_pattern = {
-		quote('_BIOS') : quote(r'\[BIOS\]*.' + rom_ext),
-		#quote('0-9'  ) : quote(r'[0-9]*.'    + rom_ext),
-		quote('A-B'  ) : quote(r'[A-B]*.'    + rom_ext),
-		quote('C-F'  ) : quote(r'[C-F]*.'    + rom_ext),
-		quote('G-L'  ) : quote(r'[G-L]*.'    + rom_ext),
-		quote('M-R'  ) : quote(r'[M-R]*.'    + rom_ext),
-		quote('S'    ) : quote(r'S*.'        + rom_ext),
-		quote('T-Z'  ) : quote(r'[T-Z]*.'    + rom_ext),
-		}
+        quote('_BIOS') : quote(r'\[BIOS\]*.' + rom_ext),
+        #quote('0-9'  ) : quote(r'[0-9]*.'    + rom_ext),
+        quote('A-B'  ) : quote(r'[A-B]*.'    + rom_ext),
+        quote('C-F'  ) : quote(r'[C-F]*.'    + rom_ext),
+        quote('G-L'  ) : quote(r'[G-L]*.'    + rom_ext),
+        quote('M-R'  ) : quote(r'[M-R]*.'    + rom_ext),
+        quote('S'    ) : quote(r'S*.'        + rom_ext),
+        quote('T-Z'  ) : quote(r'[T-Z]*.'    + rom_ext),
+        }
 
 print()
 print('mkdir --verbose --parents -- \\')
 print(' \\\n'.join(dir_name_to_glob_pattern.keys()))
 
 for (dir_name, glob_pattern) in dir_name_to_glob_pattern.items():
-	print()
-	print(f'find . -maxdepth 1 -type f -iname {glob_pattern} -print0 |')
-	print('xargs --no-run-if-empty --null --verbose \\')
-	print(f'mv --verbose --target-directory={dir_name} || exit')
+    print()
+    print(f'find . -maxdepth 1 -type f -iname {glob_pattern} -print0 |')
+    print('xargs --no-run-if-empty --null --verbose \\')
+    print(f'mv --verbose --target-directory={dir_name} || exit')
